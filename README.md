@@ -2,7 +2,7 @@
 
 Based on Fluent UI System Icons - a collection of familiar, friendly and modern icons from Microsoft.
 
-I customized it for developers to use on their websites
+We customized it for developers to use on their websites
 
 ![fluent system icons](art/readme-banner.png)
 
