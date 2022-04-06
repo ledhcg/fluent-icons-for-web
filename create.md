@@ -3,4 +3,4 @@
 python getSVGs.py
 
 #Create font
-fantasticon assets -o fonts -n fluent-icons-for-web -g scss css html json -p fiw
+fantasticon sources -o fonts -n fluent-icons-for-web -g scss css json -p fiw

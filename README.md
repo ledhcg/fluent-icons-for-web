@@ -4,7 +4,7 @@ Based on Fluent UI System Icons - a collection of familiar, friendly and modern 
 
 We customized it for developers to use on their websites
 
-![fluent system icons](art/readme-banner.png)
+![fluent system icons](images/readme-banner.png)
 
 ## Icon List
 
