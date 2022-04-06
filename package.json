@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fantasticon": "^1.2.3",
+    "oslllo-svg-fixer": "^2.1.0"
+  }
+}

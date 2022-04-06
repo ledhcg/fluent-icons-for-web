@@ -1,0 +1,5886 @@
+@font-face {
+    font-family: "fluentui-icons-for-web";
+    src: url("./fluentui-icons-for-web.eot?b5c3f81ce9f9a9e84b58a8f8ad7e4e6c#iefix") format("embedded-opentype"),
+url("./fluentui-icons-for-web.woff2?b5c3f81ce9f9a9e84b58a8f8ad7e4e6c") format("woff2"),
+url("./fluentui-icons-for-web.woff?b5c3f81ce9f9a9e84b58a8f8ad7e4e6c") format("woff");
+}
+
+i[class^="fiw-"]:before, i[class*=" fiw-"]:before {
+    font-family: fluentui-icons-for-web !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fiw-access-time-24-filled:before {
+    content: "\f101";
+}
+.fiw-accessibility-48-filled:before {
+    content: "\f102";
+}
+.fiw-accessibility-checkmark-24-filled:before {
+    content: "\f103";
+}
+.fiw-add-28-filled:before {
+    content: "\f104";
+}
+.fiw-add-circle-32-filled:before {
+    content: "\f105";
+}
+.fiw-add-square-24-filled:before {
+    content: "\f106";
+}
+.fiw-add-square-multiple-20-filled:before {
+    content: "\f107";
+}
+.fiw-add-subtract-circle-48-filled:before {
+    content: "\f108";
+}
+.fiw-airplane-24-filled:before {
+    content: "\f109";
+}
+.fiw-airplane-take-off-24-filled:before {
+    content: "\f10a";
+}
+.fiw-album-24-filled:before {
+    content: "\f10b";
+}
+.fiw-album-add-24-filled:before {
+    content: "\f10c";
+}
+.fiw-alert-32-filled:before {
+    content: "\f10d";
+}
+.fiw-alert-off-28-filled:before {
+    content: "\f10e";
+}
+.fiw-alert-on-24-filled:before {
+    content: "\f10f";
+}
+.fiw-alert-snooze-24-filled:before {
+    content: "\f110";
+}
+.fiw-alert-urgent-24-filled:before {
+    content: "\f111";
+}
+.fiw-align-bottom-48-filled:before {
+    content: "\f112";
+}
+.fiw-align-center-horizontal-48-filled:before {
+    content: "\f113";
+}
+.fiw-align-center-vertical-48-filled:before {
+    content: "\f114";
+}
+.fiw-align-end-horizontal-20-filled:before {
+    content: "\f115";
+}
+.fiw-align-end-vertical-20-filled:before {
+    content: "\f116";
+}
+.fiw-align-left-48-filled:before {
+    content: "\f117";
+}
+.fiw-align-right-48-filled:before {
+    content: "\f118";
+}
+.fiw-align-space-around-horizontal-20-filled:before {
+    content: "\f119";
+}
+.fiw-align-space-around-vertical-20-filled:before {
+    content: "\f11a";
+}
+.fiw-align-space-between-horizontal-20-filled:before {
+    content: "\f11b";
+}
+.fiw-align-space-between-vertical-20-filled:before {
+    content: "\f11c";
+}
+.fiw-align-space-evenly-horizontal-20-filled:before {
+    content: "\f11d";
+}
+.fiw-align-space-evenly-vertical-20-filled:before {
+    content: "\f11e";
+}
+.fiw-align-space-fit-vertical-20-filled:before {
+    content: "\f11f";
+}
+.fiw-align-start-horizontal-20-filled:before {
+    content: "\f120";
+}
+.fiw-align-start-vertical-20-filled:before {
+    content: "\f121";
+}
+.fiw-align-stretch-horizontal-20-filled:before {
+    content: "\f122";
+}
+.fiw-align-stretch-vertical-20-filled:before {
+    content: "\f123";
+}
+.fiw-align-top-48-filled:before {
+    content: "\f124";
+}
+.fiw-animal-cat-28-filled:before {
+    content: "\f125";
+}
+.fiw-animal-dog-24-filled:before {
+    content: "\f126";
+}
+.fiw-animal-rabbit-28-filled:before {
+    content: "\f127";
+}
+.fiw-animal-turtle-28-filled:before {
+    content: "\f128";
+}
+.fiw-app-folder-24-filled:before {
+    content: "\f129";
+}
+.fiw-app-generic-24-filled:before {
+    content: "\f12a";
+}
+.fiw-app-recent-24-filled:before {
+    content: "\f12b";
+}
+.fiw-app-store-24-filled:before {
+    content: "\f12c";
+}
+.fiw-app-title-24-filled:before {
+    content: "\f12d";
+}
+.fiw-approvals-app-32-filled:before {
+    content: "\f12e";
+}
+.fiw-apps-28-filled:before {
+    content: "\f12f";
+}
+.fiw-apps-add-in-28-filled:before {
+    content: "\f130";
+}
+.fiw-apps-list-24-filled:before {
+    content: "\f131";
+}
+.fiw-apps-list-detail-24-filled:before {
+    content: "\f132";
+}
+.fiw-archive-48-filled:before {
+    content: "\f133";
+}
+.fiw-archive-arrow-back-48-filled:before {
+    content: "\f134";
+}
+.fiw-archive-multiple-24-filled:before {
+    content: "\f135";
+}
+.fiw-archive-settings-24-filled:before {
+    content: "\f136";
+}
+.fiw-arrow-autofit-content-24-filled:before {
+    content: "\f137";
+}
+.fiw-arrow-autofit-down-24-filled:before {
+    content: "\f138";
+}
+.fiw-arrow-autofit-height-24-filled:before {
+    content: "\f139";
+}
+.fiw-arrow-autofit-height-dotted-24-filled:before {
+    content: "\f13a";
+}
+.fiw-arrow-autofit-up-24-filled:before {
+    content: "\f13b";
+}
+.fiw-arrow-autofit-width-24-filled:before {
+    content: "\f13c";
+}
+.fiw-arrow-autofit-width-dotted-24-filled:before {
+    content: "\f13d";
+}
+.fiw-arrow-between-down-24-filled:before {
+    content: "\f13e";
+}
+.fiw-arrow-bidirectional-up-down-24-filled:before {
+    content: "\f13f";
+}
+.fiw-arrow-bounce-24-filled:before {
+    content: "\f140";
+}
+.fiw-arrow-circle-down-48-filled:before {
+    content: "\f141";
+}
+.fiw-arrow-circle-down-double-24-filled:before {
+    content: "\f142";
+}
+.fiw-arrow-circle-down-right-24-filled:before {
+    content: "\f143";
+}
+.fiw-arrow-circle-down-split-24-filled:before {
+    content: "\f144";
+}
+.fiw-arrow-circle-down-up-20-filled:before {
+    content: "\f145";
+}
+.fiw-arrow-circle-left-48-filled:before {
+    content: "\f146";
+}
+.fiw-arrow-circle-right-48-filled:before {
+    content: "\f147";
+}
+.fiw-arrow-circle-up-48-filled:before {
+    content: "\f148";
+}
+.fiw-arrow-circle-up-left-24-filled:before {
+    content: "\f149";
+}
+.fiw-arrow-clockwise-48-filled:before {
+    content: "\f14a";
+}
+.fiw-arrow-clockwise-dashes-24-filled:before {
+    content: "\f14b";
+}
+.fiw-arrow-collapse-all-24-filled:before {
+    content: "\f14c";
+}
+.fiw-arrow-counterclockwise-48-filled:before {
+    content: "\f14d";
+}
+.fiw-arrow-counterclockwise-dashes-24-filled:before {
+    content: "\f14e";
+}
+.fiw-arrow-curve-down-left-28-filled:before {
+    content: "\f14f";
+}
+.fiw-arrow-curve-down-right-20-filled:before {
+    content: "\f150";
+}
+.fiw-arrow-curve-up-left-20-filled:before {
+    content: "\f151";
+}
+.fiw-arrow-curve-up-right-20-filled:before {
+    content: "\f152";
+}
+.fiw-arrow-down-48-filled:before {
+    content: "\f153";
+}
+.fiw-arrow-down-left-48-filled:before {
+    content: "\f154";
+}
+.fiw-arrow-download-48-filled:before {
+    content: "\f155";
+}
+.fiw-arrow-eject-20-filled:before {
+    content: "\f156";
+}
+.fiw-arrow-enter-20-filled:before {
+    content: "\f157";
+}
+.fiw-arrow-enter-left-24-filled:before {
+    content: "\f158";
+}
+.fiw-arrow-enter-up-24-filled:before {
+    content: "\f159";
+}
+.fiw-arrow-exit-20-filled:before {
+    content: "\f15a";
+}
+.fiw-arrow-expand-24-filled:before {
+    content: "\f15b";
+}
+.fiw-arrow-export-ltr-24-filled:before {
+    content: "\f15c";
+}
+.fiw-arrow-export-rtl-24-filled:before {
+    content: "\f15d";
+}
+.fiw-arrow-export-up-24-filled:before {
+    content: "\f15e";
+}
+.fiw-arrow-fit-20-filled:before {
+    content: "\f15f";
+}
+.fiw-arrow-forward-48-filled:before {
+    content: "\f160";
+}
+.fiw-arrow-forward-down-lightning-24-filled:before {
+    content: "\f161";
+}
+.fiw-arrow-forward-down-person-24-filled:before {
+    content: "\f162";
+}
+.fiw-arrow-hook-down-left-28-filled:before {
+    content: "\f163";
+}
+.fiw-arrow-hook-down-right-28-filled:before {
+    content: "\f164";
+}
+.fiw-arrow-hook-up-left-28-filled:before {
+    content: "\f165";
+}
+.fiw-arrow-hook-up-right-28-filled:before {
+    content: "\f166";
+}
+.fiw-arrow-import-24-filled:before {
+    content: "\f167";
+}
+.fiw-arrow-join-20-filled:before {
+    content: "\f168";
+}
+.fiw-arrow-left-48-filled:before {
+    content: "\f169";
+}
+.fiw-arrow-maximize-48-filled:before {
+    content: "\f16a";
+}
+.fiw-arrow-maximize-vertical-48-filled:before {
+    content: "\f16b";
+}
+.fiw-arrow-minimize-28-filled:before {
+    content: "\f16c";
+}
+.fiw-arrow-minimize-vertical-24-filled:before {
+    content: "\f16d";
+}
+.fiw-arrow-move-24-filled:before {
+    content: "\f16e";
+}
+.fiw-arrow-move-inward-20-filled:before {
+    content: "\f16f";
+}
+.fiw-arrow-next-24-filled:before {
+    content: "\f170";
+}
+.fiw-arrow-outline-up-right-48-filled:before {
+    content: "\f171";
+}
+.fiw-arrow-paragraph-20-filled:before {
+    content: "\f172";
+}
+.fiw-arrow-previous-24-filled:before {
+    content: "\f173";
+}
+.fiw-arrow-redo-48-filled:before {
+    content: "\f174";
+}
+.fiw-arrow-repeat-all-24-filled:before {
+    content: "\f175";
+}
+.fiw-arrow-repeat-all-off-24-filled:before {
+    content: "\f176";
+}
+.fiw-arrow-reply-48-filled:before {
+    content: "\f177";
+}
+.fiw-arrow-reply-all-48-filled:before {
+    content: "\f178";
+}
+.fiw-arrow-reply-down-24-filled:before {
+    content: "\f179";
+}
+.fiw-arrow-reset-48-filled:before {
+    content: "\f17a";
+}
+.fiw-arrow-right-48-filled:before {
+    content: "\f17b";
+}
+.fiw-arrow-rotate-clockwise-24-filled:before {
+    content: "\f17c";
+}
+.fiw-arrow-rotate-counterclockwise-24-filled:before {
+    content: "\f17d";
+}
+.fiw-arrow-routing-24-filled:before {
+    content: "\f17e";
+}
+.fiw-arrow-routing-rectangle-multiple-24-filled:before {
+    content: "\f17f";
+}
+.fiw-arrow-sort-28-filled:before {
+    content: "\f180";
+}
+.fiw-arrow-sort-down-24-filled:before {
+    content: "\f181";
+}
+.fiw-arrow-sort-down-lines-24-filled:before {
+    content: "\f182";
+}
+.fiw-arrow-sort-up-24-filled:before {
+    content: "\f183";
+}
+.fiw-arrow-split-20-filled:before {
+    content: "\f184";
+}
+.fiw-arrow-square-down-24-filled:before {
+    content: "\f185";
+}
+.fiw-arrow-step-back-20-filled:before {
+    content: "\f186";
+}
+.fiw-arrow-step-in-28-filled:before {
+    content: "\f187";
+}
+.fiw-arrow-step-in-left-28-filled:before {
+    content: "\f188";
+}
+.fiw-arrow-step-in-right-28-filled:before {
+    content: "\f189";
+}
+.fiw-arrow-step-out-28-filled:before {
+    content: "\f18a";
+}
+.fiw-arrow-step-over-20-filled:before {
+    content: "\f18b";
+}
+.fiw-arrow-swap-24-filled:before {
+    content: "\f18c";
+}
+.fiw-arrow-sync-24-filled:before {
+    content: "\f18d";
+}
+.fiw-arrow-sync-checkmark-24-filled:before {
+    content: "\f18e";
+}
+.fiw-arrow-sync-circle-24-filled:before {
+    content: "\f18f";
+}
+.fiw-arrow-sync-dismiss-24-filled:before {
+    content: "\f190";
+}
+.fiw-arrow-sync-off-20-filled:before {
+    content: "\f191";
+}
+.fiw-arrow-trending-24-filled:before {
+    content: "\f192";
+}
+.fiw-arrow-trending-checkmark-24-filled:before {
+    content: "\f193";
+}
+.fiw-arrow-trending-down-24-filled:before {
+    content: "\f194";
+}
+.fiw-arrow-trending-lines-24-filled:before {
+    content: "\f195";
+}
+.fiw-arrow-trending-settings-24-filled:before {
+    content: "\f196";
+}
+.fiw-arrow-trending-text-24-filled:before {
+    content: "\f197";
+}
+.fiw-arrow-trending-wrench-24-filled:before {
+    content: "\f198";
+}
+.fiw-arrow-turn-bidirectional-down-right-24-filled:before {
+    content: "\f199";
+}
+.fiw-arrow-turn-right-24-filled:before {
+    content: "\f19a";
+}
+.fiw-arrow-undo-48-filled:before {
+    content: "\f19b";
+}
+.fiw-arrow-up-48-filled:before {
+    content: "\f19c";
+}
+.fiw-arrow-up-left-48-filled:before {
+    content: "\f19d";
+}
+.fiw-arrow-up-right-48-filled:before {
+    content: "\f19e";
+}
+.fiw-arrow-upload-24-filled:before {
+    content: "\f19f";
+}
+.fiw-arrow-wrap-20-filled:before {
+    content: "\f1a0";
+}
+.fiw-arrow-wrap-off-20-filled:before {
+    content: "\f1a1";
+}
+.fiw-arrows-bidirectional-24-filled:before {
+    content: "\f1a2";
+}
+.fiw-attach-24-filled:before {
+    content: "\f1a3";
+}
+.fiw-attach-arrow-right-24-filled:before {
+    content: "\f1a4";
+}
+.fiw-attach-text-24-filled:before {
+    content: "\f1a5";
+}
+.fiw-auto-fit-height-24-filled:before {
+    content: "\f1a6";
+}
+.fiw-auto-fit-width-24-filled:before {
+    content: "\f1a7";
+}
+.fiw-autocorrect-24-filled:before {
+    content: "\f1a8";
+}
+.fiw-autosum-24-filled:before {
+    content: "\f1a9";
+}
+.fiw-backpack-48-filled:before {
+    content: "\f1aa";
+}
+.fiw-backpack-add-48-filled:before {
+    content: "\f1ab";
+}
+.fiw-backspace-24-filled:before {
+    content: "\f1ac";
+}
+.fiw-badge-24-filled:before {
+    content: "\f1ad";
+}
+.fiw-balloon-24-filled:before {
+    content: "\f1ae";
+}
+.fiw-barcode-scanner-24-filled:before {
+    content: "\f1af";
+}
+.fiw-battery-0-24-filled:before {
+    content: "\f1b0";
+}
+.fiw-battery-1-24-filled:before {
+    content: "\f1b1";
+}
+.fiw-battery-10-24-filled:before {
+    content: "\f1b2";
+}
+.fiw-battery-2-24-filled:before {
+    content: "\f1b3";
+}
+.fiw-battery-3-24-filled:before {
+    content: "\f1b4";
+}
+.fiw-battery-4-24-filled:before {
+    content: "\f1b5";
+}
+.fiw-battery-5-24-filled:before {
+    content: "\f1b6";
+}
+.fiw-battery-6-24-filled:before {
+    content: "\f1b7";
+}
+.fiw-battery-7-24-filled:before {
+    content: "\f1b8";
+}
+.fiw-battery-8-24-filled:before {
+    content: "\f1b9";
+}
+.fiw-battery-9-24-filled:before {
+    content: "\f1ba";
+}
+.fiw-battery-charge-24-filled:before {
+    content: "\f1bb";
+}
+.fiw-battery-checkmark-24-filled:before {
+    content: "\f1bc";
+}
+.fiw-battery-saver-24-filled:before {
+    content: "\f1bd";
+}
+.fiw-battery-warning-24-filled:before {
+    content: "\f1be";
+}
+.fiw-beach-48-filled:before {
+    content: "\f1bf";
+}
+.fiw-beaker-24-filled:before {
+    content: "\f1c0";
+}
+.fiw-beaker-edit-24-filled:before {
+    content: "\f1c1";
+}
+.fiw-bed-24-filled:before {
+    content: "\f1c2";
+}
+.fiw-bezier-curve-square-20-filled:before {
+    content: "\f1c3";
+}
+.fiw-bin-full-24-filled:before {
+    content: "\f1c4";
+}
+.fiw-bluetooth-28-filled:before {
+    content: "\f1c5";
+}
+.fiw-bluetooth-connected-24-filled:before {
+    content: "\f1c6";
+}
+.fiw-bluetooth-disabled-24-filled:before {
+    content: "\f1c7";
+}
+.fiw-bluetooth-searching-24-filled:before {
+    content: "\f1c8";
+}
+.fiw-blur-28-filled:before {
+    content: "\f1c9";
+}
+.fiw-board-28-filled:before {
+    content: "\f1ca";
+}
+.fiw-board-games-20-filled:before {
+    content: "\f1cb";
+}
+.fiw-board-heart-24-filled:before {
+    content: "\f1cc";
+}
+.fiw-board-split-48-filled:before {
+    content: "\f1cd";
+}
+.fiw-book-24-filled:before {
+    content: "\f1ce";
+}
+.fiw-book-add-24-filled:before {
+    content: "\f1cf";
+}
+.fiw-book-arrow-clockwise-24-filled:before {
+    content: "\f1d0";
+}
+.fiw-book-clock-24-filled:before {
+    content: "\f1d1";
+}
+.fiw-book-coins-24-filled:before {
+    content: "\f1d2";
+}
+.fiw-book-compass-24-filled:before {
+    content: "\f1d3";
+}
+.fiw-book-contacts-32-filled:before {
+    content: "\f1d4";
+}
+.fiw-book-database-24-filled:before {
+    content: "\f1d5";
+}
+.fiw-book-exclamation-mark-24-filled:before {
+    content: "\f1d6";
+}
+.fiw-book-globe-24-filled:before {
+    content: "\f1d7";
+}
+.fiw-book-information-24-filled:before {
+    content: "\f1d8";
+}
+.fiw-book-letter-24-filled:before {
+    content: "\f1d9";
+}
+.fiw-book-number-24-filled:before {
+    content: "\f1da";
+}
+.fiw-book-open-48-filled:before {
+    content: "\f1db";
+}
+.fiw-book-open-globe-24-filled:before {
+    content: "\f1dc";
+}
+.fiw-book-open-microphone-48-filled:before {
+    content: "\f1dd";
+}
+.fiw-book-pulse-24-filled:before {
+    content: "\f1de";
+}
+.fiw-book-question-mark-24-filled:before {
+    content: "\f1df";
+}
+.fiw-book-question-mark-rtl-24-filled:before {
+    content: "\f1e0";
+}
+.fiw-book-search-24-filled:before {
+    content: "\f1e1";
+}
+.fiw-book-star-24-filled:before {
+    content: "\f1e2";
+}
+.fiw-book-template-20-filled:before {
+    content: "\f1e3";
+}
+.fiw-book-theta-24-filled:before {
+    content: "\f1e4";
+}
+.fiw-book-toolbox-24-filled:before {
+    content: "\f1e5";
+}
+.fiw-bookmark-32-filled:before {
+    content: "\f1e6";
+}
+.fiw-bookmark-add-24-filled:before {
+    content: "\f1e7";
+}
+.fiw-bookmark-multiple-48-filled:before {
+    content: "\f1e8";
+}
+.fiw-bookmark-off-24-filled:before {
+    content: "\f1e9";
+}
+.fiw-bookmark-search-24-filled:before {
+    content: "\f1ea";
+}
+.fiw-border-all-24-filled:before {
+    content: "\f1eb";
+}
+.fiw-border-bottom-24-filled:before {
+    content: "\f1ec";
+}
+.fiw-border-bottom-double-24-filled:before {
+    content: "\f1ed";
+}
+.fiw-border-bottom-thick-24-filled:before {
+    content: "\f1ee";
+}
+.fiw-border-left-24-filled:before {
+    content: "\f1ef";
+}
+.fiw-border-left-right-24-filled:before {
+    content: "\f1f0";
+}
+.fiw-border-none-24-filled:before {
+    content: "\f1f1";
+}
+.fiw-border-outside-24-filled:before {
+    content: "\f1f2";
+}
+.fiw-border-outside-thick-24-filled:before {
+    content: "\f1f3";
+}
+.fiw-border-right-24-filled:before {
+    content: "\f1f4";
+}
+.fiw-border-top-24-filled:before {
+    content: "\f1f5";
+}
+.fiw-border-top-bottom-24-filled:before {
+    content: "\f1f6";
+}
+.fiw-border-top-bottom-double-24-filled:before {
+    content: "\f1f7";
+}
+.fiw-border-top-bottom-thick-24-filled:before {
+    content: "\f1f8";
+}
+.fiw-bot-24-filled:before {
+    content: "\f1f9";
+}
+.fiw-bot-add-24-filled:before {
+    content: "\f1fa";
+}
+.fiw-bowl-chopsticks-28-filled:before {
+    content: "\f1fb";
+}
+.fiw-box-24-filled:before {
+    content: "\f1fc";
+}
+.fiw-box-arrow-left-24-filled:before {
+    content: "\f1fd";
+}
+.fiw-box-arrow-up-24-filled:before {
+    content: "\f1fe";
+}
+.fiw-box-checkmark-24-filled:before {
+    content: "\f1ff";
+}
+.fiw-box-dismiss-24-filled:before {
+    content: "\f200";
+}
+.fiw-box-edit-24-filled:before {
+    content: "\f201";
+}
+.fiw-box-multiple-24-filled:before {
+    content: "\f202";
+}
+.fiw-box-multiple-arrow-left-24-filled:before {
+    content: "\f203";
+}
+.fiw-box-multiple-arrow-right-24-filled:before {
+    content: "\f204";
+}
+.fiw-box-multiple-checkmark-24-filled:before {
+    content: "\f205";
+}
+.fiw-box-multiple-search-24-filled:before {
+    content: "\f206";
+}
+.fiw-box-search-24-filled:before {
+    content: "\f207";
+}
+.fiw-box-toolbox-24-filled:before {
+    content: "\f208";
+}
+.fiw-braces-24-filled:before {
+    content: "\f209";
+}
+.fiw-braces-variable-24-filled:before {
+    content: "\f20a";
+}
+.fiw-brain-circuit-24-filled:before {
+    content: "\f20b";
+}
+.fiw-branch-24-filled:before {
+    content: "\f20c";
+}
+.fiw-branch-compare-24-filled:before {
+    content: "\f20d";
+}
+.fiw-branch-fork-24-filled:before {
+    content: "\f20e";
+}
+.fiw-branch-fork-hint-24-filled:before {
+    content: "\f20f";
+}
+.fiw-branch-fork-link-24-filled:before {
+    content: "\f210";
+}
+.fiw-breakout-room-28-filled:before {
+    content: "\f211";
+}
+.fiw-briefcase-48-filled:before {
+    content: "\f212";
+}
+.fiw-briefcase-medical-32-filled:before {
+    content: "\f213";
+}
+.fiw-briefcase-off-48-filled:before {
+    content: "\f214";
+}
+.fiw-brightness-high-48-filled:before {
+    content: "\f215";
+}
+.fiw-brightness-low-48-filled:before {
+    content: "\f216";
+}
+.fiw-broad-activity-feed-24-filled:before {
+    content: "\f217";
+}
+.fiw-broom-24-filled:before {
+    content: "\f218";
+}
+.fiw-bug-24-filled:before {
+    content: "\f219";
+}
+.fiw-building-24-filled:before {
+    content: "\f21a";
+}
+.fiw-building-bank-48-filled:before {
+    content: "\f21b";
+}
+.fiw-building-bank-link-48-filled:before {
+    content: "\f21c";
+}
+.fiw-building-bank-toolbox-24-filled:before {
+    content: "\f21d";
+}
+.fiw-building-factory-48-filled:before {
+    content: "\f21e";
+}
+.fiw-building-government-32-filled:before {
+    content: "\f21f";
+}
+.fiw-building-home-24-filled:before {
+    content: "\f220";
+}
+.fiw-building-lighthouse-20-filled:before {
+    content: "\f221";
+}
+.fiw-building-multiple-24-filled:before {
+    content: "\f222";
+}
+.fiw-building-retail-24-filled:before {
+    content: "\f223";
+}
+.fiw-building-retail-money-24-filled:before {
+    content: "\f224";
+}
+.fiw-building-retail-more-20-filled:before {
+    content: "\f225";
+}
+.fiw-building-retail-shield-24-filled:before {
+    content: "\f226";
+}
+.fiw-building-retail-toolbox-24-filled:before {
+    content: "\f227";
+}
+.fiw-building-shop-24-filled:before {
+    content: "\f228";
+}
+.fiw-building-skyscraper-24-filled:before {
+    content: "\f229";
+}
+.fiw-calculator-24-filled:before {
+    content: "\f22a";
+}
+.fiw-calculator-arrow-clockwise-24-filled:before {
+    content: "\f22b";
+}
+.fiw-calculator-multiple-24-filled:before {
+    content: "\f22c";
+}
+.fiw-calendar-3-day-28-filled:before {
+    content: "\f22d";
+}
+.fiw-calendar-add-28-filled:before {
+    content: "\f22e";
+}
+.fiw-calendar-agenda-28-filled:before {
+    content: "\f22f";
+}
+.fiw-calendar-arrow-down-24-filled:before {
+    content: "\f230";
+}
+.fiw-calendar-arrow-right-24-filled:before {
+    content: "\f231";
+}
+.fiw-calendar-assistant-24-filled:before {
+    content: "\f232";
+}
+.fiw-calendar-cancel-24-filled:before {
+    content: "\f233";
+}
+.fiw-calendar-chat-24-filled:before {
+    content: "\f234";
+}
+.fiw-calendar-checkmark-28-filled:before {
+    content: "\f235";
+}
+.fiw-calendar-clock-24-filled:before {
+    content: "\f236";
+}
+.fiw-calendar-day-28-filled:before {
+    content: "\f237";
+}
+.fiw-calendar-edit-24-filled:before {
+    content: "\f238";
+}
+.fiw-calendar-empty-32-filled:before {
+    content: "\f239";
+}
+.fiw-calendar-error-24-filled:before {
+    content: "\f23a";
+}
+.fiw-calendar-info-20-filled:before {
+    content: "\f23b";
+}
+.fiw-calendar-ltr-48-filled:before {
+    content: "\f23c";
+}
+.fiw-calendar-mail-20-filled:before {
+    content: "\f23d";
+}
+.fiw-calendar-mention-20-filled:before {
+    content: "\f23e";
+}
+.fiw-calendar-month-28-filled:before {
+    content: "\f23f";
+}
+.fiw-calendar-multiple-32-filled:before {
+    content: "\f240";
+}
+.fiw-calendar-pattern-20-filled:before {
+    content: "\f241";
+}
+.fiw-calendar-person-24-filled:before {
+    content: "\f242";
+}
+.fiw-calendar-phone-20-filled:before {
+    content: "\f243";
+}
+.fiw-calendar-question-mark-24-filled:before {
+    content: "\f244";
+}
+.fiw-calendar-reply-28-filled:before {
+    content: "\f245";
+}
+.fiw-calendar-rtl-48-filled:before {
+    content: "\f246";
+}
+.fiw-calendar-search-20-filled:before {
+    content: "\f247";
+}
+.fiw-calendar-settings-20-filled:before {
+    content: "\f248";
+}
+.fiw-calendar-star-24-filled:before {
+    content: "\f249";
+}
+.fiw-calendar-sync-24-filled:before {
+    content: "\f24a";
+}
+.fiw-calendar-today-28-filled:before {
+    content: "\f24b";
+}
+.fiw-calendar-toolbox-24-filled:before {
+    content: "\f24c";
+}
+.fiw-calendar-week-numbers-24-filled:before {
+    content: "\f24d";
+}
+.fiw-calendar-week-start-28-filled:before {
+    content: "\f24e";
+}
+.fiw-calendar-work-week-28-filled:before {
+    content: "\f24f";
+}
+.fiw-call-48-filled:before {
+    content: "\f250";
+}
+.fiw-call-add-24-filled:before {
+    content: "\f251";
+}
+.fiw-call-checkmark-24-filled:before {
+    content: "\f252";
+}
+.fiw-call-connecting-20-filled:before {
+    content: "\f253";
+}
+.fiw-call-dismiss-24-filled:before {
+    content: "\f254";
+}
+.fiw-call-end-28-filled:before {
+    content: "\f255";
+}
+.fiw-call-exclamation-20-filled:before {
+    content: "\f256";
+}
+.fiw-call-forward-48-filled:before {
+    content: "\f257";
+}
+.fiw-call-inbound-48-filled:before {
+    content: "\f258";
+}
+.fiw-call-missed-48-filled:before {
+    content: "\f259";
+}
+.fiw-call-outbound-48-filled:before {
+    content: "\f25a";
+}
+.fiw-call-park-48-filled:before {
+    content: "\f25b";
+}
+.fiw-call-pause-24-filled:before {
+    content: "\f25c";
+}
+.fiw-call-prohibited-48-filled:before {
+    content: "\f25d";
+}
+.fiw-call-transfer-20-filled:before {
+    content: "\f25e";
+}
+.fiw-calligraphy-pen-24-filled:before {
+    content: "\f25f";
+}
+.fiw-calligraphy-pen-checkmark-20-filled:before {
+    content: "\f260";
+}
+.fiw-calligraphy-pen-error-20-filled:before {
+    content: "\f261";
+}
+.fiw-calligraphy-pen-question-mark-20-filled:before {
+    content: "\f262";
+}
+.fiw-camera-28-filled:before {
+    content: "\f263";
+}
+.fiw-camera-add-48-filled:before {
+    content: "\f264";
+}
+.fiw-camera-dome-48-filled:before {
+    content: "\f265";
+}
+.fiw-camera-edit-20-filled:before {
+    content: "\f266";
+}
+.fiw-camera-off-24-filled:before {
+    content: "\f267";
+}
+.fiw-camera-switch-24-filled:before {
+    content: "\f268";
+}
+.fiw-caret-down-24-filled:before {
+    content: "\f269";
+}
+.fiw-caret-down-right-24-filled:before {
+    content: "\f26a";
+}
+.fiw-caret-left-24-filled:before {
+    content: "\f26b";
+}
+.fiw-caret-right-24-filled:before {
+    content: "\f26c";
+}
+.fiw-caret-up-24-filled:before {
+    content: "\f26d";
+}
+.fiw-cart-24-filled:before {
+    content: "\f26e";
+}
+.fiw-cast-28-filled:before {
+    content: "\f26f";
+}
+.fiw-cellular-3g-24-filled:before {
+    content: "\f270";
+}
+.fiw-cellular-4g-24-filled:before {
+    content: "\f271";
+}
+.fiw-cellular-5g-24-filled:before {
+    content: "\f272";
+}
+.fiw-cellular-data-1-24-filled:before {
+    content: "\f273";
+}
+.fiw-cellular-data-2-24-filled:before {
+    content: "\f274";
+}
+.fiw-cellular-data-3-24-filled:before {
+    content: "\f275";
+}
+.fiw-cellular-data-4-24-filled:before {
+    content: "\f276";
+}
+.fiw-cellular-data-5-24-filled:before {
+    content: "\f277";
+}
+.fiw-cellular-off-24-filled:before {
+    content: "\f278";
+}
+.fiw-cellular-warning-24-filled:before {
+    content: "\f279";
+}
+.fiw-center-horizontal-24-filled:before {
+    content: "\f27a";
+}
+.fiw-center-vertical-24-filled:before {
+    content: "\f27b";
+}
+.fiw-certificate-24-filled:before {
+    content: "\f27c";
+}
+.fiw-channel-48-filled:before {
+    content: "\f27d";
+}
+.fiw-channel-add-48-filled:before {
+    content: "\f27e";
+}
+.fiw-channel-alert-48-filled:before {
+    content: "\f27f";
+}
+.fiw-channel-arrow-left-48-filled:before {
+    content: "\f280";
+}
+.fiw-channel-dismiss-48-filled:before {
+    content: "\f281";
+}
+.fiw-channel-share-48-filled:before {
+    content: "\f282";
+}
+.fiw-channel-subtract-48-filled:before {
+    content: "\f283";
+}
+.fiw-chart-multiple-24-filled:before {
+    content: "\f284";
+}
+.fiw-chart-person-48-filled:before {
+    content: "\f285";
+}
+.fiw-chat-48-filled:before {
+    content: "\f286";
+}
+.fiw-chat-arrow-back-20-filled:before {
+    content: "\f287";
+}
+.fiw-chat-arrow-double-back-20-filled:before {
+    content: "\f288";
+}
+.fiw-chat-bubbles-question-24-filled:before {
+    content: "\f289";
+}
+.fiw-chat-dismiss-24-filled:before {
+    content: "\f28a";
+}
+.fiw-chat-help-24-filled:before {
+    content: "\f28b";
+}
+.fiw-chat-mail-20-filled:before {
+    content: "\f28c";
+}
+.fiw-chat-multiple-24-filled:before {
+    content: "\f28d";
+}
+.fiw-chat-off-24-filled:before {
+    content: "\f28e";
+}
+.fiw-chat-settings-24-filled:before {
+    content: "\f28f";
+}
+.fiw-chat-video-24-filled:before {
+    content: "\f290";
+}
+.fiw-chat-warning-24-filled:before {
+    content: "\f291";
+}
+.fiw-check-24-filled:before {
+    content: "\f292";
+}
+.fiw-checkbox-1-24-filled:before {
+    content: "\f293";
+}
+.fiw-checkbox-2-24-filled:before {
+    content: "\f294";
+}
+.fiw-checkbox-arrow-right-24-filled:before {
+    content: "\f295";
+}
+.fiw-checkbox-checked-24-filled:before {
+    content: "\f296";
+}
+.fiw-checkbox-checked-sync-20-filled:before {
+    content: "\f297";
+}
+.fiw-checkbox-indeterminate-24-filled:before {
+    content: "\f298";
+}
+.fiw-checkbox-person-24-filled:before {
+    content: "\f299";
+}
+.fiw-checkbox-unchecked-24-filled:before {
+    content: "\f29a";
+}
+.fiw-checkbox-warning-24-filled:before {
+    content: "\f29b";
+}
+.fiw-checkmark-48-filled:before {
+    content: "\f29c";
+}
+.fiw-checkmark-circle-48-filled:before {
+    content: "\f29d";
+}
+.fiw-checkmark-lock-24-filled:before {
+    content: "\f29e";
+}
+.fiw-checkmark-note-20-filled:before {
+    content: "\f29f";
+}
+.fiw-checkmark-square-24-filled:before {
+    content: "\f2a0";
+}
+.fiw-checkmark-starburst-24-filled:before {
+    content: "\f2a1";
+}
+.fiw-checkmark-underline-circle-20-filled:before {
+    content: "\f2a2";
+}
+.fiw-chevron-circle-down-48-filled:before {
+    content: "\f2a3";
+}
+.fiw-chevron-circle-left-48-filled:before {
+    content: "\f2a4";
+}
+.fiw-chevron-circle-right-48-filled:before {
+    content: "\f2a5";
+}
+.fiw-chevron-circle-up-48-filled:before {
+    content: "\f2a6";
+}
+.fiw-chevron-double-down-20-filled:before {
+    content: "\f2a7";
+}
+.fiw-chevron-double-left-20-filled:before {
+    content: "\f2a8";
+}
+.fiw-chevron-double-right-20-filled:before {
+    content: "\f2a9";
+}
+.fiw-chevron-double-up-20-filled:before {
+    content: "\f2aa";
+}
+.fiw-chevron-down-48-filled:before {
+    content: "\f2ab";
+}
+.fiw-chevron-left-48-filled:before {
+    content: "\f2ac";
+}
+.fiw-chevron-right-48-filled:before {
+    content: "\f2ad";
+}
+.fiw-chevron-up-48-filled:before {
+    content: "\f2ae";
+}
+.fiw-chevron-up-down-24-filled:before {
+    content: "\f2af";
+}
+.fiw-circle-48-filled:before {
+    content: "\f2b0";
+}
+.fiw-circle-edit-24-filled:before {
+    content: "\f2b1";
+}
+.fiw-circle-half-fill-24-filled:before {
+    content: "\f2b2";
+}
+.fiw-circle-line-24-filled:before {
+    content: "\f2b3";
+}
+.fiw-circle-multiple-subtract-checkmark-20-filled:before {
+    content: "\f2b4";
+}
+.fiw-circle-off-20-filled:before {
+    content: "\f2b5";
+}
+.fiw-circle-small-24-filled:before {
+    content: "\f2b6";
+}
+.fiw-city-24-filled:before {
+    content: "\f2b7";
+}
+.fiw-class-24-filled:before {
+    content: "\f2b8";
+}
+.fiw-classification-24-filled:before {
+    content: "\f2b9";
+}
+.fiw-clear-formatting-24-filled:before {
+    content: "\f2ba";
+}
+.fiw-clipboard-24-filled:before {
+    content: "\f2bb";
+}
+.fiw-clipboard-arrow-right-24-filled:before {
+    content: "\f2bc";
+}
+.fiw-clipboard-bullet-list-ltr-20-filled:before {
+    content: "\f2bd";
+}
+.fiw-clipboard-bullet-list-rtl-20-filled:before {
+    content: "\f2be";
+}
+.fiw-clipboard-checkmark-24-filled:before {
+    content: "\f2bf";
+}
+.fiw-clipboard-clock-24-filled:before {
+    content: "\f2c0";
+}
+.fiw-clipboard-code-24-filled:before {
+    content: "\f2c1";
+}
+.fiw-clipboard-data-bar-32-filled:before {
+    content: "\f2c2";
+}
+.fiw-clipboard-edit-20-filled:before {
+    content: "\f2c3";
+}
+.fiw-clipboard-error-24-filled:before {
+    content: "\f2c4";
+}
+.fiw-clipboard-heart-24-filled:before {
+    content: "\f2c5";
+}
+.fiw-clipboard-image-24-filled:before {
+    content: "\f2c6";
+}
+.fiw-clipboard-letter-24-filled:before {
+    content: "\f2c7";
+}
+.fiw-clipboard-link-24-filled:before {
+    content: "\f2c8";
+}
+.fiw-clipboard-more-24-filled:before {
+    content: "\f2c9";
+}
+.fiw-clipboard-note-20-filled:before {
+    content: "\f2ca";
+}
+.fiw-clipboard-paste-24-filled:before {
+    content: "\f2cb";
+}
+.fiw-clipboard-pulse-24-filled:before {
+    content: "\f2cc";
+}
+.fiw-clipboard-search-24-filled:before {
+    content: "\f2cd";
+}
+.fiw-clipboard-settings-24-filled:before {
+    content: "\f2ce";
+}
+.fiw-clipboard-task-24-filled:before {
+    content: "\f2cf";
+}
+.fiw-clipboard-task-add-24-filled:before {
+    content: "\f2d0";
+}
+.fiw-clipboard-task-list-ltr-24-filled:before {
+    content: "\f2d1";
+}
+.fiw-clipboard-task-list-rtl-24-filled:before {
+    content: "\f2d2";
+}
+.fiw-clipboard-text-ltr-24-filled:before {
+    content: "\f2d3";
+}
+.fiw-clipboard-text-rtl-24-filled:before {
+    content: "\f2d4";
+}
+.fiw-clock-48-filled:before {
+    content: "\f2d5";
+}
+.fiw-clock-alarm-32-filled:before {
+    content: "\f2d6";
+}
+.fiw-clock-arrow-download-24-filled:before {
+    content: "\f2d7";
+}
+.fiw-clock-dismiss-24-filled:before {
+    content: "\f2d8";
+}
+.fiw-clock-pause-24-filled:before {
+    content: "\f2d9";
+}
+.fiw-clock-toolbox-24-filled:before {
+    content: "\f2da";
+}
+.fiw-closed-caption-48-filled:before {
+    content: "\f2db";
+}
+.fiw-closed-caption-off-48-filled:before {
+    content: "\f2dc";
+}
+.fiw-cloud-48-filled:before {
+    content: "\f2dd";
+}
+.fiw-cloud-add-20-filled:before {
+    content: "\f2de";
+}
+.fiw-cloud-archive-48-filled:before {
+    content: "\f2df";
+}
+.fiw-cloud-arrow-down-48-filled:before {
+    content: "\f2e0";
+}
+.fiw-cloud-arrow-up-48-filled:before {
+    content: "\f2e1";
+}
+.fiw-cloud-checkmark-48-filled:before {
+    content: "\f2e2";
+}
+.fiw-cloud-dismiss-48-filled:before {
+    content: "\f2e3";
+}
+.fiw-cloud-edit-20-filled:before {
+    content: "\f2e4";
+}
+.fiw-cloud-flow-24-filled:before {
+    content: "\f2e5";
+}
+.fiw-cloud-link-20-filled:before {
+    content: "\f2e6";
+}
+.fiw-cloud-off-48-filled:before {
+    content: "\f2e7";
+}
+.fiw-cloud-swap-24-filled:before {
+    content: "\f2e8";
+}
+.fiw-cloud-sync-48-filled:before {
+    content: "\f2e9";
+}
+.fiw-cloud-words-48-filled:before {
+    content: "\f2ea";
+}
+.fiw-code-24-filled:before {
+    content: "\f2eb";
+}
+.fiw-code-circle-20-filled:before {
+    content: "\f2ec";
+}
+.fiw-code-text-20-filled:before {
+    content: "\f2ed";
+}
+.fiw-code-text-edit-20-filled:before {
+    content: "\f2ee";
+}
+.fiw-collections-24-filled:before {
+    content: "\f2ef";
+}
+.fiw-collections-add-24-filled:before {
+    content: "\f2f0";
+}
+.fiw-color-24-filled:before {
+    content: "\f2f1";
+}
+.fiw-color-background-24-filled:before {
+    content: "\f2f2";
+}
+.fiw-color-fill-28-filled:before {
+    content: "\f2f3";
+}
+.fiw-color-line-24-filled:before {
+    content: "\f2f4";
+}
+.fiw-column-20-filled:before {
+    content: "\f2f5";
+}
+.fiw-column-arrow-right-20-filled:before {
+    content: "\f2f6";
+}
+.fiw-column-edit-24-filled:before {
+    content: "\f2f7";
+}
+.fiw-column-triple-24-filled:before {
+    content: "\f2f8";
+}
+.fiw-column-triple-edit-24-filled:before {
+    content: "\f2f9";
+}
+.fiw-comma-24-filled:before {
+    content: "\f2fa";
+}
+.fiw-comment-48-filled:before {
+    content: "\f2fb";
+}
+.fiw-comment-add-48-filled:before {
+    content: "\f2fc";
+}
+.fiw-comment-arrow-left-48-filled:before {
+    content: "\f2fd";
+}
+.fiw-comment-arrow-right-48-filled:before {
+    content: "\f2fe";
+}
+.fiw-comment-checkmark-48-filled:before {
+    content: "\f2ff";
+}
+.fiw-comment-dismiss-24-filled:before {
+    content: "\f300";
+}
+.fiw-comment-edit-24-filled:before {
+    content: "\f301";
+}
+.fiw-comment-error-24-filled:before {
+    content: "\f302";
+}
+.fiw-comment-lightning-24-filled:before {
+    content: "\f303";
+}
+.fiw-comment-mention-24-filled:before {
+    content: "\f304";
+}
+.fiw-comment-multiple-32-filled:before {
+    content: "\f305";
+}
+.fiw-comment-multiple-checkmark-28-filled:before {
+    content: "\f306";
+}
+.fiw-comment-multiple-link-32-filled:before {
+    content: "\f307";
+}
+.fiw-comment-note-24-filled:before {
+    content: "\f308";
+}
+.fiw-comment-off-48-filled:before {
+    content: "\f309";
+}
+.fiw-communication-24-filled:before {
+    content: "\f30a";
+}
+.fiw-communication-person-24-filled:before {
+    content: "\f30b";
+}
+.fiw-compass-northwest-28-filled:before {
+    content: "\f30c";
+}
+.fiw-component-2-double-tap-swipe-down-24-filled:before {
+    content: "\f30d";
+}
+.fiw-component-2-double-tap-swipe-up-24-filled:before {
+    content: "\f30e";
+}
+.fiw-compose-28-filled:before {
+    content: "\f30f";
+}
+.fiw-conference-room-48-filled:before {
+    content: "\f310";
+}
+.fiw-connector-24-filled:before {
+    content: "\f311";
+}
+.fiw-contact-card-48-filled:before {
+    content: "\f312";
+}
+.fiw-contact-card-group-48-filled:before {
+    content: "\f313";
+}
+.fiw-contact-card-link-20-filled:before {
+    content: "\f314";
+}
+.fiw-contact-card-ribbon-48-filled:before {
+    content: "\f315";
+}
+.fiw-content-settings-32-filled:before {
+    content: "\f316";
+}
+.fiw-content-view-32-filled:before {
+    content: "\f317";
+}
+.fiw-content-view-gallery-20-filled:before {
+    content: "\f318";
+}
+.fiw-contract-down-left-48-filled:before {
+    content: "\f319";
+}
+.fiw-control-button-24-filled:before {
+    content: "\f31a";
+}
+.fiw-convert-range-24-filled:before {
+    content: "\f31b";
+}
+.fiw-cookies-24-filled:before {
+    content: "\f31c";
+}
+.fiw-copy-24-filled:before {
+    content: "\f31d";
+}
+.fiw-copy-add-24-filled:before {
+    content: "\f31e";
+}
+.fiw-copy-arrow-right-24-filled:before {
+    content: "\f31f";
+}
+.fiw-copy-select-20-filled:before {
+    content: "\f320";
+}
+.fiw-couch-24-filled:before {
+    content: "\f321";
+}
+.fiw-credit-card-person-24-filled:before {
+    content: "\f322";
+}
+.fiw-credit-card-toolbox-24-filled:before {
+    content: "\f323";
+}
+.fiw-crop-24-filled:before {
+    content: "\f324";
+}
+.fiw-crop-interim-24-filled:before {
+    content: "\f325";
+}
+.fiw-crop-interim-off-24-filled:before {
+    content: "\f326";
+}
+.fiw-cube-24-filled:before {
+    content: "\f327";
+}
+.fiw-cube-add-20-filled:before {
+    content: "\f328";
+}
+.fiw-cube-link-20-filled:before {
+    content: "\f329";
+}
+.fiw-cube-multiple-24-filled:before {
+    content: "\f32a";
+}
+.fiw-cube-quick-28-filled:before {
+    content: "\f32b";
+}
+.fiw-cube-rotate-20-filled:before {
+    content: "\f32c";
+}
+.fiw-cube-sync-24-filled:before {
+    content: "\f32d";
+}
+.fiw-cube-tree-24-filled:before {
+    content: "\f32e";
+}
+.fiw-currency-dollar-euro-24-filled:before {
+    content: "\f32f";
+}
+.fiw-currency-dollar-rupee-24-filled:before {
+    content: "\f330";
+}
+.fiw-cursor-24-filled:before {
+    content: "\f331";
+}
+.fiw-cursor-click-24-filled:before {
+    content: "\f332";
+}
+.fiw-cursor-hover-48-filled:before {
+    content: "\f333";
+}
+.fiw-cursor-hover-off-48-filled:before {
+    content: "\f334";
+}
+.fiw-cut-24-filled:before {
+    content: "\f335";
+}
+.fiw-dark-theme-24-filled:before {
+    content: "\f336";
+}
+.fiw-data-area-24-filled:before {
+    content: "\f337";
+}
+.fiw-data-bar-horizontal-24-filled:before {
+    content: "\f338";
+}
+.fiw-data-bar-vertical-24-filled:before {
+    content: "\f339";
+}
+.fiw-data-bar-vertical-add-24-filled:before {
+    content: "\f33a";
+}
+.fiw-data-funnel-24-filled:before {
+    content: "\f33b";
+}
+.fiw-data-histogram-24-filled:before {
+    content: "\f33c";
+}
+.fiw-data-line-24-filled:before {
+    content: "\f33d";
+}
+.fiw-data-pie-24-filled:before {
+    content: "\f33e";
+}
+.fiw-data-scatter-24-filled:before {
+    content: "\f33f";
+}
+.fiw-data-sunburst-24-filled:before {
+    content: "\f340";
+}
+.fiw-data-treemap-24-filled:before {
+    content: "\f341";
+}
+.fiw-data-trending-24-filled:before {
+    content: "\f342";
+}
+.fiw-data-usage-24-filled:before {
+    content: "\f343";
+}
+.fiw-data-usage-edit-24-filled:before {
+    content: "\f344";
+}
+.fiw-data-usage-settings-20-filled:before {
+    content: "\f345";
+}
+.fiw-data-usage-toolbox-24-filled:before {
+    content: "\f346";
+}
+.fiw-data-waterfall-24-filled:before {
+    content: "\f347";
+}
+.fiw-data-whisker-24-filled:before {
+    content: "\f348";
+}
+.fiw-database-24-filled:before {
+    content: "\f349";
+}
+.fiw-database-arrow-down-20-filled:before {
+    content: "\f34a";
+}
+.fiw-database-arrow-right-20-filled:before {
+    content: "\f34b";
+}
+.fiw-database-arrow-up-20-filled:before {
+    content: "\f34c";
+}
+.fiw-database-lightning-20-filled:before {
+    content: "\f34d";
+}
+.fiw-database-link-24-filled:before {
+    content: "\f34e";
+}
+.fiw-database-multiple-20-filled:before {
+    content: "\f34f";
+}
+.fiw-database-person-24-filled:before {
+    content: "\f350";
+}
+.fiw-database-plug-connected-20-filled:before {
+    content: "\f351";
+}
+.fiw-database-search-24-filled:before {
+    content: "\f352";
+}
+.fiw-database-warning-20-filled:before {
+    content: "\f353";
+}
+.fiw-database-window-20-filled:before {
+    content: "\f354";
+}
+.fiw-decimal-arrow-left-24-filled:before {
+    content: "\f355";
+}
+.fiw-decimal-arrow-right-24-filled:before {
+    content: "\f356";
+}
+.fiw-delete-48-filled:before {
+    content: "\f357";
+}
+.fiw-delete-arrow-back-20-filled:before {
+    content: "\f358";
+}
+.fiw-delete-dismiss-28-filled:before {
+    content: "\f359";
+}
+.fiw-delete-lines-20-filled:before {
+    content: "\f35a";
+}
+.fiw-delete-off-24-filled:before {
+    content: "\f35b";
+}
+.fiw-dentist-48-filled:before {
+    content: "\f35c";
+}
+.fiw-design-ideas-24-filled:before {
+    content: "\f35d";
+}
+.fiw-desktop-32-filled:before {
+    content: "\f35e";
+}
+.fiw-desktop-arrow-right-24-filled:before {
+    content: "\f35f";
+}
+.fiw-desktop-cursor-28-filled:before {
+    content: "\f360";
+}
+.fiw-desktop-edit-24-filled:before {
+    content: "\f361";
+}
+.fiw-desktop-flow-24-filled:before {
+    content: "\f362";
+}
+.fiw-desktop-keyboard-28-filled:before {
+    content: "\f363";
+}
+.fiw-desktop-mac-32-filled:before {
+    content: "\f364";
+}
+.fiw-desktop-pulse-48-filled:before {
+    content: "\f365";
+}
+.fiw-desktop-signal-24-filled:before {
+    content: "\f366";
+}
+.fiw-desktop-speaker-24-filled:before {
+    content: "\f367";
+}
+.fiw-desktop-speaker-off-24-filled:before {
+    content: "\f368";
+}
+.fiw-desktop-sync-24-filled:before {
+    content: "\f369";
+}
+.fiw-desktop-toolbox-24-filled:before {
+    content: "\f36a";
+}
+.fiw-developer-board-24-filled:before {
+    content: "\f36b";
+}
+.fiw-developer-board-lightning-20-filled:before {
+    content: "\f36c";
+}
+.fiw-developer-board-lightning-toolbox-20-filled:before {
+    content: "\f36d";
+}
+.fiw-developer-board-search-24-filled:before {
+    content: "\f36e";
+}
+.fiw-device-eq-24-filled:before {
+    content: "\f36f";
+}
+.fiw-device-meeting-room-48-filled:before {
+    content: "\f370";
+}
+.fiw-device-meeting-room-remote-48-filled:before {
+    content: "\f371";
+}
+.fiw-diagram-24-filled:before {
+    content: "\f372";
+}
+.fiw-dialpad-48-filled:before {
+    content: "\f373";
+}
+.fiw-dialpad-off-24-filled:before {
+    content: "\f374";
+}
+.fiw-diamond-48-filled:before {
+    content: "\f375";
+}
+.fiw-directions-24-filled:before {
+    content: "\f376";
+}
+.fiw-dismiss-48-filled:before {
+    content: "\f377";
+}
+.fiw-dismiss-circle-48-filled:before {
+    content: "\f378";
+}
+.fiw-dismiss-square-24-filled:before {
+    content: "\f379";
+}
+.fiw-dismiss-square-multiple-20-filled:before {
+    content: "\f37a";
+}
+.fiw-diversity-48-filled:before {
+    content: "\f37b";
+}
+.fiw-divider-short-24-filled:before {
+    content: "\f37c";
+}
+.fiw-divider-tall-24-filled:before {
+    content: "\f37d";
+}
+.fiw-dock-24-filled:before {
+    content: "\f37e";
+}
+.fiw-dock-row-24-filled:before {
+    content: "\f37f";
+}
+.fiw-doctor-48-filled:before {
+    content: "\f380";
+}
+.fiw-document-48-filled:before {
+    content: "\f381";
+}
+.fiw-document-add-48-filled:before {
+    content: "\f382";
+}
+.fiw-document-arrow-down-20-filled:before {
+    content: "\f383";
+}
+.fiw-document-arrow-left-48-filled:before {
+    content: "\f384";
+}
+.fiw-document-arrow-right-24-filled:before {
+    content: "\f385";
+}
+.fiw-document-arrow-up-20-filled:before {
+    content: "\f386";
+}
+.fiw-document-briefcase-24-filled:before {
+    content: "\f387";
+}
+.fiw-document-bullet-list-24-filled:before {
+    content: "\f388";
+}
+.fiw-document-bullet-list-clock-24-filled:before {
+    content: "\f389";
+}
+.fiw-document-bullet-list-multiple-24-filled:before {
+    content: "\f38a";
+}
+.fiw-document-bullet-list-off-24-filled:before {
+    content: "\f38b";
+}
+.fiw-document-catch-up-24-filled:before {
+    content: "\f38c";
+}
+.fiw-document-checkmark-24-filled:before {
+    content: "\f38d";
+}
+.fiw-document-chevron-double-24-filled:before {
+    content: "\f38e";
+}
+.fiw-document-copy-48-filled:before {
+    content: "\f38f";
+}
+.fiw-document-css-24-filled:before {
+    content: "\f390";
+}
+.fiw-document-dismiss-24-filled:before {
+    content: "\f391";
+}
+.fiw-document-edit-24-filled:before {
+    content: "\f392";
+}
+.fiw-document-endnote-24-filled:before {
+    content: "\f393";
+}
+.fiw-document-error-24-filled:before {
+    content: "\f394";
+}
+.fiw-document-flowchart-24-filled:before {
+    content: "\f395";
+}
+.fiw-document-footer-24-filled:before {
+    content: "\f396";
+}
+.fiw-document-footer-dismiss-24-filled:before {
+    content: "\f397";
+}
+.fiw-document-header-24-filled:before {
+    content: "\f398";
+}
+.fiw-document-header-arrow-down-24-filled:before {
+    content: "\f399";
+}
+.fiw-document-header-dismiss-24-filled:before {
+    content: "\f39a";
+}
+.fiw-document-header-footer-24-filled:before {
+    content: "\f39b";
+}
+.fiw-document-heart-24-filled:before {
+    content: "\f39c";
+}
+.fiw-document-heart-pulse-24-filled:before {
+    content: "\f39d";
+}
+.fiw-document-javascript-24-filled:before {
+    content: "\f39e";
+}
+.fiw-document-landscape-24-filled:before {
+    content: "\f39f";
+}
+.fiw-document-landscape-data-24-filled:before {
+    content: "\f3a0";
+}
+.fiw-document-landscape-split-24-filled:before {
+    content: "\f3a1";
+}
+.fiw-document-landscape-split-hint-20-filled:before {
+    content: "\f3a2";
+}
+.fiw-document-link-24-filled:before {
+    content: "\f3a3";
+}
+.fiw-document-lock-48-filled:before {
+    content: "\f3a4";
+}
+.fiw-document-margins-24-filled:before {
+    content: "\f3a5";
+}
+.fiw-document-mention-48-filled:before {
+    content: "\f3a6";
+}
+.fiw-document-multiple-24-filled:before {
+    content: "\f3a7";
+}
+.fiw-document-multiple-percent-24-filled:before {
+    content: "\f3a8";
+}
+.fiw-document-multiple-prohibited-24-filled:before {
+    content: "\f3a9";
+}
+.fiw-document-multiple-sync-20-filled:before {
+    content: "\f3aa";
+}
+.fiw-document-one-page-24-filled:before {
+    content: "\f3ab";
+}
+.fiw-document-page-bottom-center-24-filled:before {
+    content: "\f3ac";
+}
+.fiw-document-page-bottom-left-24-filled:before {
+    content: "\f3ad";
+}
+.fiw-document-page-bottom-right-24-filled:before {
+    content: "\f3ae";
+}
+.fiw-document-page-break-24-filled:before {
+    content: "\f3af";
+}
+.fiw-document-page-number-24-filled:before {
+    content: "\f3b0";
+}
+.fiw-document-page-top-center-24-filled:before {
+    content: "\f3b1";
+}
+.fiw-document-page-top-left-24-filled:before {
+    content: "\f3b2";
+}
+.fiw-document-page-top-right-24-filled:before {
+    content: "\f3b3";
+}
+.fiw-document-pdf-32-filled:before {
+    content: "\f3b4";
+}
+.fiw-document-percent-24-filled:before {
+    content: "\f3b5";
+}
+.fiw-document-person-20-filled:before {
+    content: "\f3b6";
+}
+.fiw-document-pill-24-filled:before {
+    content: "\f3b7";
+}
+.fiw-document-prohibited-24-filled:before {
+    content: "\f3b8";
+}
+.fiw-document-question-mark-24-filled:before {
+    content: "\f3b9";
+}
+.fiw-document-queue-24-filled:before {
+    content: "\f3ba";
+}
+.fiw-document-queue-add-24-filled:before {
+    content: "\f3bb";
+}
+.fiw-document-queue-multiple-24-filled:before {
+    content: "\f3bc";
+}
+.fiw-document-ribbon-48-filled:before {
+    content: "\f3bd";
+}
+.fiw-document-save-24-filled:before {
+    content: "\f3be";
+}
+.fiw-document-search-24-filled:before {
+    content: "\f3bf";
+}
+.fiw-document-settings-20-filled:before {
+    content: "\f3c0";
+}
+.fiw-document-split-hint-24-filled:before {
+    content: "\f3c1";
+}
+.fiw-document-split-hint-off-24-filled:before {
+    content: "\f3c2";
+}
+.fiw-document-sync-24-filled:before {
+    content: "\f3c3";
+}
+.fiw-document-table-24-filled:before {
+    content: "\f3c4";
+}
+.fiw-document-table-arrow-right-24-filled:before {
+    content: "\f3c5";
+}
+.fiw-document-table-checkmark-24-filled:before {
+    content: "\f3c6";
+}
+.fiw-document-table-cube-24-filled:before {
+    content: "\f3c7";
+}
+.fiw-document-table-search-24-filled:before {
+    content: "\f3c8";
+}
+.fiw-document-table-truck-24-filled:before {
+    content: "\f3c9";
+}
+.fiw-document-text-24-filled:before {
+    content: "\f3ca";
+}
+.fiw-document-text-clock-24-filled:before {
+    content: "\f3cb";
+}
+.fiw-document-text-extract-24-filled:before {
+    content: "\f3cc";
+}
+.fiw-document-text-link-24-filled:before {
+    content: "\f3cd";
+}
+.fiw-document-text-toolbox-24-filled:before {
+    content: "\f3ce";
+}
+.fiw-document-toolbox-24-filled:before {
+    content: "\f3cf";
+}
+.fiw-document-width-24-filled:before {
+    content: "\f3d0";
+}
+.fiw-door-28-filled:before {
+    content: "\f3d1";
+}
+.fiw-door-arrow-left-24-filled:before {
+    content: "\f3d2";
+}
+.fiw-door-arrow-right-28-filled:before {
+    content: "\f3d3";
+}
+.fiw-door-tag-24-filled:before {
+    content: "\f3d4";
+}
+.fiw-double-swipe-down-24-filled:before {
+    content: "\f3d5";
+}
+.fiw-double-swipe-up-24-filled:before {
+    content: "\f3d6";
+}
+.fiw-double-tap-swipe-down-24-filled:before {
+    content: "\f3d7";
+}
+.fiw-double-tap-swipe-up-24-filled:before {
+    content: "\f3d8";
+}
+.fiw-drafts-24-filled:before {
+    content: "\f3d9";
+}
+.fiw-drag-24-filled:before {
+    content: "\f3da";
+}
+.fiw-draw-image-24-filled:before {
+    content: "\f3db";
+}
+.fiw-draw-shape-24-filled:before {
+    content: "\f3dc";
+}
+.fiw-draw-text-24-filled:before {
+    content: "\f3dd";
+}
+.fiw-drawer-add-24-filled:before {
+    content: "\f3de";
+}
+.fiw-drawer-arrow-download-24-filled:before {
+    content: "\f3df";
+}
+.fiw-drawer-dismiss-24-filled:before {
+    content: "\f3e0";
+}
+.fiw-drawer-play-24-filled:before {
+    content: "\f3e1";
+}
+.fiw-drawer-subtract-24-filled:before {
+    content: "\f3e2";
+}
+.fiw-drink-beer-24-filled:before {
+    content: "\f3e3";
+}
+.fiw-drink-coffee-24-filled:before {
+    content: "\f3e4";
+}
+.fiw-drink-margarita-24-filled:before {
+    content: "\f3e5";
+}
+.fiw-drink-to-go-24-filled:before {
+    content: "\f3e6";
+}
+.fiw-drink-wine-24-filled:before {
+    content: "\f3e7";
+}
+.fiw-drive-train-24-filled:before {
+    content: "\f3e8";
+}
+.fiw-drop-48-filled:before {
+    content: "\f3e9";
+}
+.fiw-dual-screen-24-filled:before {
+    content: "\f3ea";
+}
+.fiw-dual-screen-add-24-filled:before {
+    content: "\f3eb";
+}
+.fiw-dual-screen-arrow-right-24-filled:before {
+    content: "\f3ec";
+}
+.fiw-dual-screen-arrow-up-24-filled:before {
+    content: "\f3ed";
+}
+.fiw-dual-screen-clock-24-filled:before {
+    content: "\f3ee";
+}
+.fiw-dual-screen-closed-alert-24-filled:before {
+    content: "\f3ef";
+}
+.fiw-dual-screen-desktop-24-filled:before {
+    content: "\f3f0";
+}
+.fiw-dual-screen-dismiss-24-filled:before {
+    content: "\f3f1";
+}
+.fiw-dual-screen-group-24-filled:before {
+    content: "\f3f2";
+}
+.fiw-dual-screen-header-24-filled:before {
+    content: "\f3f3";
+}
+.fiw-dual-screen-lock-24-filled:before {
+    content: "\f3f4";
+}
+.fiw-dual-screen-mirror-24-filled:before {
+    content: "\f3f5";
+}
+.fiw-dual-screen-pagination-24-filled:before {
+    content: "\f3f6";
+}
+.fiw-dual-screen-settings-24-filled:before {
+    content: "\f3f7";
+}
+.fiw-dual-screen-span-24-filled:before {
+    content: "\f3f8";
+}
+.fiw-dual-screen-speaker-24-filled:before {
+    content: "\f3f9";
+}
+.fiw-dual-screen-status-bar-24-filled:before {
+    content: "\f3fa";
+}
+.fiw-dual-screen-tablet-24-filled:before {
+    content: "\f3fb";
+}
+.fiw-dual-screen-update-24-filled:before {
+    content: "\f3fc";
+}
+.fiw-dual-screen-vertical-scroll-24-filled:before {
+    content: "\f3fd";
+}
+.fiw-dual-screen-vibrate-24-filled:before {
+    content: "\f3fe";
+}
+.fiw-dumbbell-28-filled:before {
+    content: "\f3ff";
+}
+.fiw-earth-24-filled:before {
+    content: "\f400";
+}
+.fiw-edit-48-filled:before {
+    content: "\f401";
+}
+.fiw-edit-arrow-back-20-filled:before {
+    content: "\f402";
+}
+.fiw-edit-off-48-filled:before {
+    content: "\f403";
+}
+.fiw-edit-prohibited-48-filled:before {
+    content: "\f404";
+}
+.fiw-edit-settings-24-filled:before {
+    content: "\f405";
+}
+.fiw-emoji-48-filled:before {
+    content: "\f406";
+}
+.fiw-emoji-add-24-filled:before {
+    content: "\f407";
+}
+.fiw-emoji-angry-24-filled:before {
+    content: "\f408";
+}
+.fiw-emoji-edit-48-filled:before {
+    content: "\f409";
+}
+.fiw-emoji-hand-28-filled:before {
+    content: "\f40a";
+}
+.fiw-emoji-laugh-24-filled:before {
+    content: "\f40b";
+}
+.fiw-emoji-meh-24-filled:before {
+    content: "\f40c";
+}
+.fiw-emoji-multiple-24-filled:before {
+    content: "\f40d";
+}
+.fiw-emoji-sad-24-filled:before {
+    content: "\f40e";
+}
+.fiw-emoji-sad-slight-24-filled:before {
+    content: "\f40f";
+}
+.fiw-emoji-smile-slight-24-filled:before {
+    content: "\f410";
+}
+.fiw-emoji-sparkle-48-filled:before {
+    content: "\f411";
+}
+.fiw-emoji-surprise-24-filled:before {
+    content: "\f412";
+}
+.fiw-engine-24-filled:before {
+    content: "\f413";
+}
+.fiw-equal-circle-24-filled:before {
+    content: "\f414";
+}
+.fiw-equal-off-24-filled:before {
+    content: "\f415";
+}
+.fiw-eraser-24-filled:before {
+    content: "\f416";
+}
+.fiw-eraser-medium-24-filled:before {
+    content: "\f417";
+}
+.fiw-eraser-segment-24-filled:before {
+    content: "\f418";
+}
+.fiw-eraser-small-24-filled:before {
+    content: "\f419";
+}
+.fiw-eraser-tool-24-filled:before {
+    content: "\f41a";
+}
+.fiw-error-circle-24-filled:before {
+    content: "\f41b";
+}
+.fiw-error-circle-settings-20-filled:before {
+    content: "\f41c";
+}
+.fiw-expand-up-left-48-filled:before {
+    content: "\f41d";
+}
+.fiw-expand-up-right-48-filled:before {
+    content: "\f41e";
+}
+.fiw-extended-dock-24-filled:before {
+    content: "\f41f";
+}
+.fiw-eye-24-filled:before {
+    content: "\f420";
+}
+.fiw-eye-off-24-filled:before {
+    content: "\f421";
+}
+.fiw-eye-tracking-24-filled:before {
+    content: "\f422";
+}
+.fiw-eye-tracking-off-24-filled:before {
+    content: "\f423";
+}
+.fiw-eyedropper-24-filled:before {
+    content: "\f424";
+}
+.fiw-eyedropper-off-24-filled:before {
+    content: "\f425";
+}
+.fiw-f-stop-28-filled:before {
+    content: "\f426";
+}
+.fiw-fast-acceleration-24-filled:before {
+    content: "\f427";
+}
+.fiw-fast-forward-28-filled:before {
+    content: "\f428";
+}
+.fiw-fax-20-filled:before {
+    content: "\f429";
+}
+.fiw-filter-28-filled:before {
+    content: "\f42a";
+}
+.fiw-filter-add-20-filled:before {
+    content: "\f42b";
+}
+.fiw-filter-dismiss-24-filled:before {
+    content: "\f42c";
+}
+.fiw-filter-sync-24-filled:before {
+    content: "\f42d";
+}
+.fiw-fingerprint-48-filled:before {
+    content: "\f42e";
+}
+.fiw-fixed-width-24-filled:before {
+    content: "\f42f";
+}
+.fiw-flag-48-filled:before {
+    content: "\f430";
+}
+.fiw-flag-off-48-filled:before {
+    content: "\f431";
+}
+.fiw-flag-pride-48-filled:before {
+    content: "\f432";
+}
+.fiw-flash-28-filled:before {
+    content: "\f433";
+}
+.fiw-flash-add-20-filled:before {
+    content: "\f434";
+}
+.fiw-flash-auto-24-filled:before {
+    content: "\f435";
+}
+.fiw-flash-checkmark-28-filled:before {
+    content: "\f436";
+}
+.fiw-flash-flow-24-filled:before {
+    content: "\f437";
+}
+.fiw-flash-off-24-filled:before {
+    content: "\f438";
+}
+.fiw-flash-play-20-filled:before {
+    content: "\f439";
+}
+.fiw-flash-settings-24-filled:before {
+    content: "\f43a";
+}
+.fiw-flashlight-24-filled:before {
+    content: "\f43b";
+}
+.fiw-flashlight-off-24-filled:before {
+    content: "\f43c";
+}
+.fiw-flip-horizontal-48-filled:before {
+    content: "\f43d";
+}
+.fiw-flip-vertical-48-filled:before {
+    content: "\f43e";
+}
+.fiw-flow-20-filled:before {
+    content: "\f43f";
+}
+.fiw-flowchart-24-filled:before {
+    content: "\f440";
+}
+.fiw-flowchart-circle-24-filled:before {
+    content: "\f441";
+}
+.fiw-fluent-48-filled:before {
+    content: "\f442";
+}
+.fiw-fluid-24-filled:before {
+    content: "\f443";
+}
+.fiw-folder-48-filled:before {
+    content: "\f444";
+}
+.fiw-folder-add-48-filled:before {
+    content: "\f445";
+}
+.fiw-folder-arrow-left-32-filled:before {
+    content: "\f446";
+}
+.fiw-folder-arrow-right-48-filled:before {
+    content: "\f447";
+}
+.fiw-folder-arrow-up-48-filled:before {
+    content: "\f448";
+}
+.fiw-folder-briefcase-20-filled:before {
+    content: "\f449";
+}
+.fiw-folder-globe-20-filled:before {
+    content: "\f44a";
+}
+.fiw-folder-link-48-filled:before {
+    content: "\f44b";
+}
+.fiw-folder-mail-20-filled:before {
+    content: "\f44c";
+}
+.fiw-folder-open-24-filled:before {
+    content: "\f44d";
+}
+.fiw-folder-open-vertical-20-filled:before {
+    content: "\f44e";
+}
+.fiw-folder-person-20-filled:before {
+    content: "\f44f";
+}
+.fiw-folder-prohibited-48-filled:before {
+    content: "\f450";
+}
+.fiw-folder-swap-24-filled:before {
+    content: "\f451";
+}
+.fiw-folder-sync-24-filled:before {
+    content: "\f452";
+}
+.fiw-folder-zip-24-filled:before {
+    content: "\f453";
+}
+.fiw-font-decrease-24-filled:before {
+    content: "\f454";
+}
+.fiw-font-increase-24-filled:before {
+    content: "\f455";
+}
+.fiw-font-space-tracking-in-28-filled:before {
+    content: "\f456";
+}
+.fiw-font-space-tracking-out-28-filled:before {
+    content: "\f457";
+}
+.fiw-food-24-filled:before {
+    content: "\f458";
+}
+.fiw-food-apple-24-filled:before {
+    content: "\f459";
+}
+.fiw-food-cake-24-filled:before {
+    content: "\f45a";
+}
+.fiw-food-egg-24-filled:before {
+    content: "\f45b";
+}
+.fiw-food-grains-24-filled:before {
+    content: "\f45c";
+}
+.fiw-food-pizza-24-filled:before {
+    content: "\f45d";
+}
+.fiw-food-toast-24-filled:before {
+    content: "\f45e";
+}
+.fiw-form-new-48-filled:before {
+    content: "\f45f";
+}
+.fiw-fps-120-24-filled:before {
+    content: "\f460";
+}
+.fiw-fps-240-24-filled:before {
+    content: "\f461";
+}
+.fiw-fps-30-48-filled:before {
+    content: "\f462";
+}
+.fiw-fps-60-48-filled:before {
+    content: "\f463";
+}
+.fiw-fps-960-24-filled:before {
+    content: "\f464";
+}
+.fiw-full-screen-maximize-24-filled:before {
+    content: "\f465";
+}
+.fiw-full-screen-minimize-24-filled:before {
+    content: "\f466";
+}
+.fiw-games-48-filled:before {
+    content: "\f467";
+}
+.fiw-gantt-chart-24-filled:before {
+    content: "\f468";
+}
+.fiw-gas-24-filled:before {
+    content: "\f469";
+}
+.fiw-gas-pump-24-filled:before {
+    content: "\f46a";
+}
+.fiw-gauge-24-filled:before {
+    content: "\f46b";
+}
+.fiw-gauge-add-20-filled:before {
+    content: "\f46c";
+}
+.fiw-gavel-32-filled:before {
+    content: "\f46d";
+}
+.fiw-gesture-24-filled:before {
+    content: "\f46e";
+}
+.fiw-gif-24-filled:before {
+    content: "\f46f";
+}
+.fiw-gift-24-filled:before {
+    content: "\f470";
+}
+.fiw-gift-card-24-filled:before {
+    content: "\f471";
+}
+.fiw-gift-card-add-24-filled:before {
+    content: "\f472";
+}
+.fiw-gift-card-arrow-right-24-filled:before {
+    content: "\f473";
+}
+.fiw-gift-card-money-24-filled:before {
+    content: "\f474";
+}
+.fiw-gift-card-multiple-24-filled:before {
+    content: "\f475";
+}
+.fiw-glance-24-filled:before {
+    content: "\f476";
+}
+.fiw-glance-default-12-filled:before {
+    content: "\f477";
+}
+.fiw-glance-horizontal-24-filled:before {
+    content: "\f478";
+}
+.fiw-glasses-48-filled:before {
+    content: "\f479";
+}
+.fiw-glasses-off-48-filled:before {
+    content: "\f47a";
+}
+.fiw-globe-32-filled:before {
+    content: "\f47b";
+}
+.fiw-globe-add-24-filled:before {
+    content: "\f47c";
+}
+.fiw-globe-clock-24-filled:before {
+    content: "\f47d";
+}
+.fiw-globe-desktop-24-filled:before {
+    content: "\f47e";
+}
+.fiw-globe-location-24-filled:before {
+    content: "\f47f";
+}
+.fiw-globe-person-24-filled:before {
+    content: "\f480";
+}
+.fiw-globe-prohibited-20-filled:before {
+    content: "\f481";
+}
+.fiw-globe-search-24-filled:before {
+    content: "\f482";
+}
+.fiw-globe-shield-24-filled:before {
+    content: "\f483";
+}
+.fiw-globe-star-20-filled:before {
+    content: "\f484";
+}
+.fiw-globe-surface-24-filled:before {
+    content: "\f485";
+}
+.fiw-globe-video-48-filled:before {
+    content: "\f486";
+}
+.fiw-grid-28-filled:before {
+    content: "\f487";
+}
+.fiw-grid-dots-28-filled:before {
+    content: "\f488";
+}
+.fiw-grid-kanban-20-filled:before {
+    content: "\f489";
+}
+.fiw-group-24-filled:before {
+    content: "\f48a";
+}
+.fiw-group-dismiss-24-filled:before {
+    content: "\f48b";
+}
+.fiw-group-list-24-filled:before {
+    content: "\f48c";
+}
+.fiw-group-return-24-filled:before {
+    content: "\f48d";
+}
+.fiw-guardian-48-filled:before {
+    content: "\f48e";
+}
+.fiw-guest-28-filled:before {
+    content: "\f48f";
+}
+.fiw-guest-add-24-filled:before {
+    content: "\f490";
+}
+.fiw-guitar-28-filled:before {
+    content: "\f491";
+}
+.fiw-hand-draw-28-filled:before {
+    content: "\f492";
+}
+.fiw-hand-left-28-filled:before {
+    content: "\f493";
+}
+.fiw-hand-right-28-filled:before {
+    content: "\f494";
+}
+.fiw-hand-right-off-20-filled:before {
+    content: "\f495";
+}
+.fiw-handshake-24-filled:before {
+    content: "\f496";
+}
+.fiw-hard-drive-20-filled:before {
+    content: "\f497";
+}
+.fiw-hat-graduation-24-filled:before {
+    content: "\f498";
+}
+.fiw-hd-24-filled:before {
+    content: "\f499";
+}
+.fiw-hdr-24-filled:before {
+    content: "\f49a";
+}
+.fiw-hdr-off-24-filled:before {
+    content: "\f49b";
+}
+.fiw-headphones-48-filled:before {
+    content: "\f49c";
+}
+.fiw-headphones-sound-wave-48-filled:before {
+    content: "\f49d";
+}
+.fiw-headset-48-filled:before {
+    content: "\f49e";
+}
+.fiw-headset-add-24-filled:before {
+    content: "\f49f";
+}
+.fiw-headset-vr-24-filled:before {
+    content: "\f4a0";
+}
+.fiw-heart-48-filled:before {
+    content: "\f4a1";
+}
+.fiw-heart-broken-20-filled:before {
+    content: "\f4a2";
+}
+.fiw-heart-circle-24-filled:before {
+    content: "\f4a3";
+}
+.fiw-heart-pulse-32-filled:before {
+    content: "\f4a4";
+}
+.fiw-highlight-24-filled:before {
+    content: "\f4a5";
+}
+.fiw-highlight-accent-24-filled:before {
+    content: "\f4a6";
+}
+.fiw-highlight-link-20-filled:before {
+    content: "\f4a7";
+}
+.fiw-history-48-filled:before {
+    content: "\f4a8";
+}
+.fiw-history-dismiss-48-filled:before {
+    content: "\f4a9";
+}
+.fiw-home-48-filled:before {
+    content: "\f4aa";
+}
+.fiw-home-add-24-filled:before {
+    content: "\f4ab";
+}
+.fiw-home-checkmark-24-filled:before {
+    content: "\f4ac";
+}
+.fiw-home-database-20-filled:before {
+    content: "\f4ad";
+}
+.fiw-home-more-20-filled:before {
+    content: "\f4ae";
+}
+.fiw-home-person-24-filled:before {
+    content: "\f4af";
+}
+.fiw-icons-24-filled:before {
+    content: "\f4b0";
+}
+.fiw-image-48-filled:before {
+    content: "\f4b1";
+}
+.fiw-image-add-24-filled:before {
+    content: "\f4b2";
+}
+.fiw-image-alt-text-24-filled:before {
+    content: "\f4b3";
+}
+.fiw-image-arrow-back-24-filled:before {
+    content: "\f4b4";
+}
+.fiw-image-arrow-counterclockwise-24-filled:before {
+    content: "\f4b5";
+}
+.fiw-image-arrow-forward-24-filled:before {
+    content: "\f4b6";
+}
+.fiw-image-copy-28-filled:before {
+    content: "\f4b7";
+}
+.fiw-image-edit-24-filled:before {
+    content: "\f4b8";
+}
+.fiw-image-globe-24-filled:before {
+    content: "\f4b9";
+}
+.fiw-image-multiple-48-filled:before {
+    content: "\f4ba";
+}
+.fiw-image-multiple-off-16-filled:before {
+    content: "\f4bb";
+}
+.fiw-image-off-24-filled:before {
+    content: "\f4bc";
+}
+.fiw-image-prohibited-24-filled:before {
+    content: "\f4bd";
+}
+.fiw-image-reflection-24-filled:before {
+    content: "\f4be";
+}
+.fiw-image-search-24-filled:before {
+    content: "\f4bf";
+}
+.fiw-image-shadow-24-filled:before {
+    content: "\f4c0";
+}
+.fiw-immersive-reader-28-filled:before {
+    content: "\f4c1";
+}
+.fiw-important-24-filled:before {
+    content: "\f4c2";
+}
+.fiw-incognito-24-filled:before {
+    content: "\f4c3";
+}
+.fiw-info-28-filled:before {
+    content: "\f4c4";
+}
+.fiw-info-shield-20-filled:before {
+    content: "\f4c5";
+}
+.fiw-ink-stroke-24-filled:before {
+    content: "\f4c6";
+}
+.fiw-inking-tool-32-filled:before {
+    content: "\f4c7";
+}
+.fiw-inking-tool-accent-32-filled:before {
+    content: "\f4c8";
+}
+.fiw-inprivate-account-28-filled:before {
+    content: "\f4c9";
+}
+.fiw-insert-20-filled:before {
+    content: "\f4ca";
+}
+.fiw-ios-arrow-ltr-24-filled:before {
+    content: "\f4cb";
+}
+.fiw-ios-arrow-rtl-24-filled:before {
+    content: "\f4cc";
+}
+.fiw-ios-chevron-right-20-filled:before {
+    content: "\f4cd";
+}
+.fiw-iot-24-filled:before {
+    content: "\f4ce";
+}
+.fiw-javascript-24-filled:before {
+    content: "\f4cf";
+}
+.fiw-key-32-filled:before {
+    content: "\f4d0";
+}
+.fiw-key-command-24-filled:before {
+    content: "\f4d1";
+}
+.fiw-key-multiple-20-filled:before {
+    content: "\f4d2";
+}
+.fiw-key-reset-24-filled:before {
+    content: "\f4d3";
+}
+.fiw-keyboard-123-24-filled:before {
+    content: "\f4d4";
+}
+.fiw-keyboard-24-filled:before {
+    content: "\f4d5";
+}
+.fiw-keyboard-dock-24-filled:before {
+    content: "\f4d6";
+}
+.fiw-keyboard-layout-float-24-filled:before {
+    content: "\f4d7";
+}
+.fiw-keyboard-layout-one-handed-left-24-filled:before {
+    content: "\f4d8";
+}
+.fiw-keyboard-layout-resize-24-filled:before {
+    content: "\f4d9";
+}
+.fiw-keyboard-layout-split-24-filled:before {
+    content: "\f4da";
+}
+.fiw-keyboard-shift-24-filled:before {
+    content: "\f4db";
+}
+.fiw-keyboard-shift-uppercase-24-filled:before {
+    content: "\f4dc";
+}
+.fiw-keyboard-tab-24-filled:before {
+    content: "\f4dd";
+}
+.fiw-laptop-28-filled:before {
+    content: "\f4de";
+}
+.fiw-laptop-dismiss-20-filled:before {
+    content: "\f4df";
+}
+.fiw-lasso-28-filled:before {
+    content: "\f4e0";
+}
+.fiw-launcher-settings-24-filled:before {
+    content: "\f4e1";
+}
+.fiw-layer-24-filled:before {
+    content: "\f4e2";
+}
+.fiw-leaf-one-24-filled:before {
+    content: "\f4e3";
+}
+.fiw-leaf-three-24-filled:before {
+    content: "\f4e4";
+}
+.fiw-leaf-two-24-filled:before {
+    content: "\f4e5";
+}
+.fiw-learning-app-24-filled:before {
+    content: "\f4e6";
+}
+.fiw-library-28-filled:before {
+    content: "\f4e7";
+}
+.fiw-lightbulb-24-filled:before {
+    content: "\f4e8";
+}
+.fiw-lightbulb-circle-24-filled:before {
+    content: "\f4e9";
+}
+.fiw-lightbulb-filament-48-filled:before {
+    content: "\f4ea";
+}
+.fiw-likert-24-filled:before {
+    content: "\f4eb";
+}
+.fiw-line-48-filled:before {
+    content: "\f4ec";
+}
+.fiw-line-dashes-48-filled:before {
+    content: "\f4ed";
+}
+.fiw-line-horizontal-1-20-filled:before {
+    content: "\f4ee";
+}
+.fiw-line-horizontal-3-20-filled:before {
+    content: "\f4ef";
+}
+.fiw-line-horizontal-5-20-filled:before {
+    content: "\f4f0";
+}
+.fiw-line-horizontal-5-error-20-filled:before {
+    content: "\f4f1";
+}
+.fiw-line-style-24-filled:before {
+    content: "\f4f2";
+}
+.fiw-link-48-filled:before {
+    content: "\f4f3";
+}
+.fiw-link-dismiss-24-filled:before {
+    content: "\f4f4";
+}
+.fiw-link-edit-24-filled:before {
+    content: "\f4f5";
+}
+.fiw-link-square-24-filled:before {
+    content: "\f4f6";
+}
+.fiw-link-toolbox-20-filled:before {
+    content: "\f4f7";
+}
+.fiw-list-28-filled:before {
+    content: "\f4f8";
+}
+.fiw-live-24-filled:before {
+    content: "\f4f9";
+}
+.fiw-live-off-24-filled:before {
+    content: "\f4fa";
+}
+.fiw-local-language-28-filled:before {
+    content: "\f4fb";
+}
+.fiw-location-48-filled:before {
+    content: "\f4fc";
+}
+.fiw-location-add-24-filled:before {
+    content: "\f4fd";
+}
+.fiw-location-add-left-20-filled:before {
+    content: "\f4fe";
+}
+.fiw-location-add-right-20-filled:before {
+    content: "\f4ff";
+}
+.fiw-location-add-up-20-filled:before {
+    content: "\f500";
+}
+.fiw-location-arrow-left-48-filled:before {
+    content: "\f501";
+}
+.fiw-location-arrow-right-48-filled:before {
+    content: "\f502";
+}
+.fiw-location-arrow-up-48-filled:before {
+    content: "\f503";
+}
+.fiw-location-dismiss-24-filled:before {
+    content: "\f504";
+}
+.fiw-location-live-24-filled:before {
+    content: "\f505";
+}
+.fiw-location-off-48-filled:before {
+    content: "\f506";
+}
+.fiw-lock-closed-32-filled:before {
+    content: "\f507";
+}
+.fiw-lock-multiple-24-filled:before {
+    content: "\f508";
+}
+.fiw-lock-open-28-filled:before {
+    content: "\f509";
+}
+.fiw-lock-shield-48-filled:before {
+    content: "\f50a";
+}
+.fiw-lottery-24-filled:before {
+    content: "\f50b";
+}
+.fiw-luggage-48-filled:before {
+    content: "\f50c";
+}
+.fiw-mail-48-filled:before {
+    content: "\f50d";
+}
+.fiw-mail-add-24-filled:before {
+    content: "\f50e";
+}
+.fiw-mail-alert-28-filled:before {
+    content: "\f50f";
+}
+.fiw-mail-all-read-28-filled:before {
+    content: "\f510";
+}
+.fiw-mail-all-unread-20-filled:before {
+    content: "\f511";
+}
+.fiw-mail-arrow-double-back-20-filled:before {
+    content: "\f512";
+}
+.fiw-mail-arrow-down-20-filled:before {
+    content: "\f513";
+}
+.fiw-mail-arrow-forward-20-filled:before {
+    content: "\f514";
+}
+.fiw-mail-arrow-up-24-filled:before {
+    content: "\f515";
+}
+.fiw-mail-attach-20-filled:before {
+    content: "\f516";
+}
+.fiw-mail-checkmark-20-filled:before {
+    content: "\f517";
+}
+.fiw-mail-clock-24-filled:before {
+    content: "\f518";
+}
+.fiw-mail-copy-24-filled:before {
+    content: "\f519";
+}
+.fiw-mail-dismiss-28-filled:before {
+    content: "\f51a";
+}
+.fiw-mail-edit-24-filled:before {
+    content: "\f51b";
+}
+.fiw-mail-error-24-filled:before {
+    content: "\f51c";
+}
+.fiw-mail-inbox-28-filled:before {
+    content: "\f51d";
+}
+.fiw-mail-inbox-add-28-filled:before {
+    content: "\f51e";
+}
+.fiw-mail-inbox-all-24-filled:before {
+    content: "\f51f";
+}
+.fiw-mail-inbox-arrow-down-20-filled:before {
+    content: "\f520";
+}
+.fiw-mail-inbox-arrow-right-24-filled:before {
+    content: "\f521";
+}
+.fiw-mail-inbox-arrow-up-24-filled:before {
+    content: "\f522";
+}
+.fiw-mail-inbox-checkmark-28-filled:before {
+    content: "\f523";
+}
+.fiw-mail-inbox-dismiss-28-filled:before {
+    content: "\f524";
+}
+.fiw-mail-link-24-filled:before {
+    content: "\f525";
+}
+.fiw-mail-list-28-filled:before {
+    content: "\f526";
+}
+.fiw-mail-multiple-28-filled:before {
+    content: "\f527";
+}
+.fiw-mail-off-24-filled:before {
+    content: "\f528";
+}
+.fiw-mail-open-person-24-filled:before {
+    content: "\f529";
+}
+.fiw-mail-pause-20-filled:before {
+    content: "\f52a";
+}
+.fiw-mail-prohibited-24-filled:before {
+    content: "\f52b";
+}
+.fiw-mail-read-48-filled:before {
+    content: "\f52c";
+}
+.fiw-mail-read-multiple-28-filled:before {
+    content: "\f52d";
+}
+.fiw-mail-settings-20-filled:before {
+    content: "\f52e";
+}
+.fiw-mail-shield-20-filled:before {
+    content: "\f52f";
+}
+.fiw-mail-template-24-filled:before {
+    content: "\f530";
+}
+.fiw-mail-unread-48-filled:before {
+    content: "\f531";
+}
+.fiw-mail-warning-24-filled:before {
+    content: "\f532";
+}
+.fiw-map-24-filled:before {
+    content: "\f533";
+}
+.fiw-map-drive-24-filled:before {
+    content: "\f534";
+}
+.fiw-match-app-layout-24-filled:before {
+    content: "\f535";
+}
+.fiw-math-format-linear-24-filled:before {
+    content: "\f536";
+}
+.fiw-math-format-professional-24-filled:before {
+    content: "\f537";
+}
+.fiw-math-formula-32-filled:before {
+    content: "\f538";
+}
+.fiw-math-symbols-48-filled:before {
+    content: "\f539";
+}
+.fiw-maximize-48-filled:before {
+    content: "\f53a";
+}
+.fiw-meet-now-48-filled:before {
+    content: "\f53b";
+}
+.fiw-megaphone-28-filled:before {
+    content: "\f53c";
+}
+.fiw-megaphone-loud-24-filled:before {
+    content: "\f53d";
+}
+.fiw-megaphone-off-28-filled:before {
+    content: "\f53e";
+}
+.fiw-mention-24-filled:before {
+    content: "\f53f";
+}
+.fiw-mention-arrow-down-20-filled:before {
+    content: "\f540";
+}
+.fiw-mention-brackets-20-filled:before {
+    content: "\f541";
+}
+.fiw-merge-24-filled:before {
+    content: "\f542";
+}
+.fiw-mic-48-filled:before {
+    content: "\f543";
+}
+.fiw-mic-off-48-filled:before {
+    content: "\f544";
+}
+.fiw-mic-prohibited-48-filled:before {
+    content: "\f545";
+}
+.fiw-mic-settings-24-filled:before {
+    content: "\f546";
+}
+.fiw-mic-sparkle-24-filled:before {
+    content: "\f547";
+}
+.fiw-mic-sync-20-filled:before {
+    content: "\f548";
+}
+.fiw-microscope-24-filled:before {
+    content: "\f549";
+}
+.fiw-midi-24-filled:before {
+    content: "\f54a";
+}
+.fiw-mobile-optimized-24-filled:before {
+    content: "\f54b";
+}
+.fiw-molecule-48-filled:before {
+    content: "\f54c";
+}
+.fiw-money-24-filled:before {
+    content: "\f54d";
+}
+.fiw-money-calculator-24-filled:before {
+    content: "\f54e";
+}
+.fiw-money-dismiss-24-filled:before {
+    content: "\f54f";
+}
+.fiw-money-hand-24-filled:before {
+    content: "\f550";
+}
+.fiw-money-off-24-filled:before {
+    content: "\f551";
+}
+.fiw-money-settings-20-filled:before {
+    content: "\f552";
+}
+.fiw-more-circle-32-filled:before {
+    content: "\f553";
+}
+.fiw-more-horizontal-48-filled:before {
+    content: "\f554";
+}
+.fiw-more-vertical-48-filled:before {
+    content: "\f555";
+}
+.fiw-movies-and-tv-24-filled:before {
+    content: "\f556";
+}
+.fiw-multiplier-1-2x-48-filled:before {
+    content: "\f557";
+}
+.fiw-multiplier-1-5x-48-filled:before {
+    content: "\f558";
+}
+.fiw-multiplier-1-8x-48-filled:before {
+    content: "\f559";
+}
+.fiw-multiplier-1x-48-filled:before {
+    content: "\f55a";
+}
+.fiw-multiplier-2x-48-filled:before {
+    content: "\f55b";
+}
+.fiw-multiplier-5x-48-filled:before {
+    content: "\f55c";
+}
+.fiw-multiselect-ltr-24-filled:before {
+    content: "\f55d";
+}
+.fiw-multiselect-rtl-24-filled:before {
+    content: "\f55e";
+}
+.fiw-music-note-1-24-filled:before {
+    content: "\f55f";
+}
+.fiw-music-note-2-24-filled:before {
+    content: "\f560";
+}
+.fiw-music-note-2-play-20-filled:before {
+    content: "\f561";
+}
+.fiw-music-note-off-1-24-filled:before {
+    content: "\f562";
+}
+.fiw-music-note-off-2-24-filled:before {
+    content: "\f563";
+}
+.fiw-my-location-24-filled:before {
+    content: "\f564";
+}
+.fiw-navigation-24-filled:before {
+    content: "\f565";
+}
+.fiw-navigation-location-target-20-filled:before {
+    content: "\f566";
+}
+.fiw-navigation-play-20-filled:before {
+    content: "\f567";
+}
+.fiw-navigation-unread-24-filled:before {
+    content: "\f568";
+}
+.fiw-network-check-24-filled:before {
+    content: "\f569";
+}
+.fiw-new-24-filled:before {
+    content: "\f56a";
+}
+.fiw-news-28-filled:before {
+    content: "\f56b";
+}
+.fiw-next-48-filled:before {
+    content: "\f56c";
+}
+.fiw-note-48-filled:before {
+    content: "\f56d";
+}
+.fiw-note-add-48-filled:before {
+    content: "\f56e";
+}
+.fiw-note-edit-24-filled:before {
+    content: "\f56f";
+}
+.fiw-note-pin-20-filled:before {
+    content: "\f570";
+}
+.fiw-notebook-24-filled:before {
+    content: "\f571";
+}
+.fiw-notebook-add-24-filled:before {
+    content: "\f572";
+}
+.fiw-notebook-error-24-filled:before {
+    content: "\f573";
+}
+.fiw-notebook-lightning-24-filled:before {
+    content: "\f574";
+}
+.fiw-notebook-question-mark-24-filled:before {
+    content: "\f575";
+}
+.fiw-notebook-section-24-filled:before {
+    content: "\f576";
+}
+.fiw-notebook-section-arrow-right-24-filled:before {
+    content: "\f577";
+}
+.fiw-notebook-subsection-24-filled:before {
+    content: "\f578";
+}
+.fiw-notebook-sync-24-filled:before {
+    content: "\f579";
+}
+.fiw-notepad-32-filled:before {
+    content: "\f57a";
+}
+.fiw-notepad-edit-20-filled:before {
+    content: "\f57b";
+}
+.fiw-notepad-person-24-filled:before {
+    content: "\f57c";
+}
+.fiw-number-circle-1-24-filled:before {
+    content: "\f57d";
+}
+.fiw-number-row-24-filled:before {
+    content: "\f57e";
+}
+.fiw-number-symbol-48-filled:before {
+    content: "\f57f";
+}
+.fiw-number-symbol-dismiss-24-filled:before {
+    content: "\f580";
+}
+.fiw-number-symbol-square-24-filled:before {
+    content: "\f581";
+}
+.fiw-open-48-filled:before {
+    content: "\f582";
+}
+.fiw-open-folder-48-filled:before {
+    content: "\f583";
+}
+.fiw-open-off-48-filled:before {
+    content: "\f584";
+}
+.fiw-options-48-filled:before {
+    content: "\f585";
+}
+.fiw-organization-48-filled:before {
+    content: "\f586";
+}
+.fiw-organization-horizontal-20-filled:before {
+    content: "\f587";
+}
+.fiw-orientation-24-filled:before {
+    content: "\f588";
+}
+.fiw-oval-48-filled:before {
+    content: "\f589";
+}
+.fiw-padding-down-24-filled:before {
+    content: "\f58a";
+}
+.fiw-padding-left-24-filled:before {
+    content: "\f58b";
+}
+.fiw-padding-right-24-filled:before {
+    content: "\f58c";
+}
+.fiw-padding-top-24-filled:before {
+    content: "\f58d";
+}
+.fiw-page-fit-24-filled:before {
+    content: "\f58e";
+}
+.fiw-paint-brush-24-filled:before {
+    content: "\f58f";
+}
+.fiw-paint-brush-arrow-down-24-filled:before {
+    content: "\f590";
+}
+.fiw-paint-brush-arrow-up-24-filled:before {
+    content: "\f591";
+}
+.fiw-paint-bucket-24-filled:before {
+    content: "\f592";
+}
+.fiw-pair-24-filled:before {
+    content: "\f593";
+}
+.fiw-panel-bottom-20-filled:before {
+    content: "\f594";
+}
+.fiw-panel-bottom-contract-20-filled:before {
+    content: "\f595";
+}
+.fiw-panel-bottom-expand-20-filled:before {
+    content: "\f596";
+}
+.fiw-panel-left-48-filled:before {
+    content: "\f597";
+}
+.fiw-panel-left-contract-28-filled:before {
+    content: "\f598";
+}
+.fiw-panel-left-expand-28-filled:before {
+    content: "\f599";
+}
+.fiw-panel-left-focus-right-28-filled:before {
+    content: "\f59a";
+}
+.fiw-panel-right-48-filled:before {
+    content: "\f59b";
+}
+.fiw-panel-right-contract-24-filled:before {
+    content: "\f59c";
+}
+.fiw-panel-right-expand-20-filled:before {
+    content: "\f59d";
+}
+.fiw-panel-separate-window-20-filled:before {
+    content: "\f59e";
+}
+.fiw-panel-top-contract-20-filled:before {
+    content: "\f59f";
+}
+.fiw-panel-top-expand-20-filled:before {
+    content: "\f5a0";
+}
+.fiw-password-24-filled:before {
+    content: "\f5a1";
+}
+.fiw-patch-24-filled:before {
+    content: "\f5a2";
+}
+.fiw-patient-32-filled:before {
+    content: "\f5a3";
+}
+.fiw-pause-48-filled:before {
+    content: "\f5a4";
+}
+.fiw-pause-circle-24-filled:before {
+    content: "\f5a5";
+}
+.fiw-pause-off-20-filled:before {
+    content: "\f5a6";
+}
+.fiw-pause-settings-20-filled:before {
+    content: "\f5a7";
+}
+.fiw-payment-28-filled:before {
+    content: "\f5a8";
+}
+.fiw-pen-48-filled:before {
+    content: "\f5a9";
+}
+.fiw-pen-off-48-filled:before {
+    content: "\f5aa";
+}
+.fiw-pen-prohibited-48-filled:before {
+    content: "\f5ab";
+}
+.fiw-pentagon-48-filled:before {
+    content: "\f5ac";
+}
+.fiw-people-32-filled:before {
+    content: "\f5ad";
+}
+.fiw-people-add-28-filled:before {
+    content: "\f5ae";
+}
+.fiw-people-audience-24-filled:before {
+    content: "\f5af";
+}
+.fiw-people-call-20-filled:before {
+    content: "\f5b0";
+}
+.fiw-people-checkmark-24-filled:before {
+    content: "\f5b1";
+}
+.fiw-people-community-28-filled:before {
+    content: "\f5b2";
+}
+.fiw-people-community-add-28-filled:before {
+    content: "\f5b3";
+}
+.fiw-people-edit-20-filled:before {
+    content: "\f5b4";
+}
+.fiw-people-error-24-filled:before {
+    content: "\f5b5";
+}
+.fiw-people-list-28-filled:before {
+    content: "\f5b6";
+}
+.fiw-people-lock-24-filled:before {
+    content: "\f5b7";
+}
+.fiw-people-money-24-filled:before {
+    content: "\f5b8";
+}
+.fiw-people-prohibited-24-filled:before {
+    content: "\f5b9";
+}
+.fiw-people-queue-24-filled:before {
+    content: "\f5ba";
+}
+.fiw-people-search-24-filled:before {
+    content: "\f5bb";
+}
+.fiw-people-settings-28-filled:before {
+    content: "\f5bc";
+}
+.fiw-people-swap-28-filled:before {
+    content: "\f5bd";
+}
+.fiw-people-sync-28-filled:before {
+    content: "\f5be";
+}
+.fiw-people-team-32-filled:before {
+    content: "\f5bf";
+}
+.fiw-people-team-add-24-filled:before {
+    content: "\f5c0";
+}
+.fiw-people-team-delete-32-filled:before {
+    content: "\f5c1";
+}
+.fiw-people-team-toolbox-24-filled:before {
+    content: "\f5c2";
+}
+.fiw-people-toolbox-20-filled:before {
+    content: "\f5c3";
+}
+.fiw-person-48-filled:before {
+    content: "\f5c4";
+}
+.fiw-person-5-32-filled:before {
+    content: "\f5c5";
+}
+.fiw-person-6-32-filled:before {
+    content: "\f5c6";
+}
+.fiw-person-accounts-24-filled:before {
+    content: "\f5c7";
+}
+.fiw-person-add-28-filled:before {
+    content: "\f5c8";
+}
+.fiw-person-arrow-left-24-filled:before {
+    content: "\f5c9";
+}
+.fiw-person-arrow-right-24-filled:before {
+    content: "\f5ca";
+}
+.fiw-person-available-24-filled:before {
+    content: "\f5cb";
+}
+.fiw-person-board-24-filled:before {
+    content: "\f5cc";
+}
+.fiw-person-call-24-filled:before {
+    content: "\f5cd";
+}
+.fiw-person-chat-24-filled:before {
+    content: "\f5ce";
+}
+.fiw-person-circle-24-filled:before {
+    content: "\f5cf";
+}
+.fiw-person-clock-24-filled:before {
+    content: "\f5d0";
+}
+.fiw-person-delete-24-filled:before {
+    content: "\f5d1";
+}
+.fiw-person-edit-24-filled:before {
+    content: "\f5d2";
+}
+.fiw-person-feedback-24-filled:before {
+    content: "\f5d3";
+}
+.fiw-person-info-20-filled:before {
+    content: "\f5d4";
+}
+.fiw-person-key-20-filled:before {
+    content: "\f5d5";
+}
+.fiw-person-lightbulb-24-filled:before {
+    content: "\f5d6";
+}
+.fiw-person-lock-24-filled:before {
+    content: "\f5d7";
+}
+.fiw-person-mail-48-filled:before {
+    content: "\f5d8";
+}
+.fiw-person-money-24-filled:before {
+    content: "\f5d9";
+}
+.fiw-person-note-24-filled:before {
+    content: "\f5da";
+}
+.fiw-person-pill-24-filled:before {
+    content: "\f5db";
+}
+.fiw-person-prohibited-28-filled:before {
+    content: "\f5dc";
+}
+.fiw-person-question-mark-24-filled:before {
+    content: "\f5dd";
+}
+.fiw-person-settings-20-filled:before {
+    content: "\f5de";
+}
+.fiw-person-subtract-20-filled:before {
+    content: "\f5df";
+}
+.fiw-person-support-24-filled:before {
+    content: "\f5e0";
+}
+.fiw-person-swap-24-filled:before {
+    content: "\f5e1";
+}
+.fiw-person-sync-24-filled:before {
+    content: "\f5e2";
+}
+.fiw-person-tag-48-filled:before {
+    content: "\f5e3";
+}
+.fiw-person-voice-24-filled:before {
+    content: "\f5e4";
+}
+.fiw-phone-24-filled:before {
+    content: "\f5e5";
+}
+.fiw-phone-add-24-filled:before {
+    content: "\f5e6";
+}
+.fiw-phone-arrow-right-24-filled:before {
+    content: "\f5e7";
+}
+.fiw-phone-checkmark-20-filled:before {
+    content: "\f5e8";
+}
+.fiw-phone-desktop-28-filled:before {
+    content: "\f5e9";
+}
+.fiw-phone-desktop-add-20-filled:before {
+    content: "\f5ea";
+}
+.fiw-phone-dismiss-24-filled:before {
+    content: "\f5eb";
+}
+.fiw-phone-eraser-20-filled:before {
+    content: "\f5ec";
+}
+.fiw-phone-laptop-32-filled:before {
+    content: "\f5ed";
+}
+.fiw-phone-link-setup-24-filled:before {
+    content: "\f5ee";
+}
+.fiw-phone-lock-24-filled:before {
+    content: "\f5ef";
+}
+.fiw-phone-page-header-24-filled:before {
+    content: "\f5f0";
+}
+.fiw-phone-pagination-24-filled:before {
+    content: "\f5f1";
+}
+.fiw-phone-screen-time-24-filled:before {
+    content: "\f5f2";
+}
+.fiw-phone-shake-24-filled:before {
+    content: "\f5f3";
+}
+.fiw-phone-span-in-28-filled:before {
+    content: "\f5f4";
+}
+.fiw-phone-span-out-28-filled:before {
+    content: "\f5f5";
+}
+.fiw-phone-speaker-24-filled:before {
+    content: "\f5f6";
+}
+.fiw-phone-status-bar-24-filled:before {
+    content: "\f5f7";
+}
+.fiw-phone-tablet-24-filled:before {
+    content: "\f5f8";
+}
+.fiw-phone-update-24-filled:before {
+    content: "\f5f9";
+}
+.fiw-phone-update-checkmark-24-filled:before {
+    content: "\f5fa";
+}
+.fiw-phone-vertical-scroll-24-filled:before {
+    content: "\f5fb";
+}
+.fiw-phone-vibrate-24-filled:before {
+    content: "\f5fc";
+}
+.fiw-photo-filter-24-filled:before {
+    content: "\f5fd";
+}
+.fiw-pi-24-filled:before {
+    content: "\f5fe";
+}
+.fiw-picture-in-picture-24-filled:before {
+    content: "\f5ff";
+}
+.fiw-picture-in-picture-enter-24-filled:before {
+    content: "\f600";
+}
+.fiw-picture-in-picture-exit-24-filled:before {
+    content: "\f601";
+}
+.fiw-pill-28-filled:before {
+    content: "\f602";
+}
+.fiw-pin-48-filled:before {
+    content: "\f603";
+}
+.fiw-pin-off-48-filled:before {
+    content: "\f604";
+}
+.fiw-pipeline-20-filled:before {
+    content: "\f605";
+}
+.fiw-pipeline-add-20-filled:before {
+    content: "\f606";
+}
+.fiw-pipeline-play-20-filled:before {
+    content: "\f607";
+}
+.fiw-pivot-24-filled:before {
+    content: "\f608";
+}
+.fiw-play-48-filled:before {
+    content: "\f609";
+}
+.fiw-play-circle-48-filled:before {
+    content: "\f60a";
+}
+.fiw-play-settings-20-filled:before {
+    content: "\f60b";
+}
+.fiw-plug-connected-24-filled:before {
+    content: "\f60c";
+}
+.fiw-plug-connected-add-20-filled:before {
+    content: "\f60d";
+}
+.fiw-plug-connected-checkmark-20-filled:before {
+    content: "\f60e";
+}
+.fiw-plug-disconnected-28-filled:before {
+    content: "\f60f";
+}
+.fiw-point-scan-24-filled:before {
+    content: "\f610";
+}
+.fiw-poll-24-filled:before {
+    content: "\f611";
+}
+.fiw-port-hdmi-24-filled:before {
+    content: "\f612";
+}
+.fiw-port-micro-usb-24-filled:before {
+    content: "\f613";
+}
+.fiw-port-usb-a-24-filled:before {
+    content: "\f614";
+}
+.fiw-port-usb-c-24-filled:before {
+    content: "\f615";
+}
+.fiw-position-backward-24-filled:before {
+    content: "\f616";
+}
+.fiw-position-forward-24-filled:before {
+    content: "\f617";
+}
+.fiw-position-to-back-24-filled:before {
+    content: "\f618";
+}
+.fiw-position-to-front-24-filled:before {
+    content: "\f619";
+}
+.fiw-power-28-filled:before {
+    content: "\f61a";
+}
+.fiw-predictions-24-filled:before {
+    content: "\f61b";
+}
+.fiw-premium-32-filled:before {
+    content: "\f61c";
+}
+.fiw-premium-person-24-filled:before {
+    content: "\f61d";
+}
+.fiw-presence-available-24-filled:before {
+    content: "\f61e";
+}
+.fiw-presence-away-24-filled:before {
+    content: "\f61f";
+}
+.fiw-presence-busy-24-filled:before {
+    content: "\f620";
+}
+.fiw-presence-dnd-24-filled:before {
+    content: "\f621";
+}
+.fiw-presenter-24-filled:before {
+    content: "\f622";
+}
+.fiw-presenter-off-24-filled:before {
+    content: "\f623";
+}
+.fiw-preview-link-24-filled:before {
+    content: "\f624";
+}
+.fiw-previous-48-filled:before {
+    content: "\f625";
+}
+.fiw-print-48-filled:before {
+    content: "\f626";
+}
+.fiw-print-add-24-filled:before {
+    content: "\f627";
+}
+.fiw-production-24-filled:before {
+    content: "\f628";
+}
+.fiw-production-checkmark-24-filled:before {
+    content: "\f629";
+}
+.fiw-prohibited-48-filled:before {
+    content: "\f62a";
+}
+.fiw-prohibited-multiple-24-filled:before {
+    content: "\f62b";
+}
+.fiw-prohibited-note-20-filled:before {
+    content: "\f62c";
+}
+.fiw-projection-screen-28-filled:before {
+    content: "\f62d";
+}
+.fiw-projection-screen-dismiss-28-filled:before {
+    content: "\f62e";
+}
+.fiw-protocol-handler-24-filled:before {
+    content: "\f62f";
+}
+.fiw-pulse-32-filled:before {
+    content: "\f630";
+}
+.fiw-pulse-square-24-filled:before {
+    content: "\f631";
+}
+.fiw-puzzle-cube-48-filled:before {
+    content: "\f632";
+}
+.fiw-puzzle-cube-piece-20-filled:before {
+    content: "\f633";
+}
+.fiw-puzzle-piece-24-filled:before {
+    content: "\f634";
+}
+.fiw-puzzle-piece-shield-20-filled:before {
+    content: "\f635";
+}
+.fiw-qr-code-28-filled:before {
+    content: "\f636";
+}
+.fiw-question-48-filled:before {
+    content: "\f637";
+}
+.fiw-question-circle-48-filled:before {
+    content: "\f638";
+}
+.fiw-quiz-new-48-filled:before {
+    content: "\f639";
+}
+.fiw-radar-20-filled:before {
+    content: "\f63a";
+}
+.fiw-radar-checkmark-20-filled:before {
+    content: "\f63b";
+}
+.fiw-radar-rectangle-multiple-20-filled:before {
+    content: "\f63c";
+}
+.fiw-radio-button-24-filled:before {
+    content: "\f63d";
+}
+.fiw-ram-20-filled:before {
+    content: "\f63e";
+}
+.fiw-rating-mature-24-filled:before {
+    content: "\f63f";
+}
+.fiw-ratio-one-to-one-24-filled:before {
+    content: "\f640";
+}
+.fiw-re-order-24-filled:before {
+    content: "\f641";
+}
+.fiw-re-order-dots-horizontal-24-filled:before {
+    content: "\f642";
+}
+.fiw-re-order-dots-vertical-24-filled:before {
+    content: "\f643";
+}
+.fiw-read-aloud-28-filled:before {
+    content: "\f644";
+}
+.fiw-reading-list-28-filled:before {
+    content: "\f645";
+}
+.fiw-reading-list-add-28-filled:before {
+    content: "\f646";
+}
+.fiw-reading-mode-mobile-24-filled:before {
+    content: "\f647";
+}
+.fiw-real-estate-24-filled:before {
+    content: "\f648";
+}
+.fiw-receipt-24-filled:before {
+    content: "\f649";
+}
+.fiw-receipt-add-24-filled:before {
+    content: "\f64a";
+}
+.fiw-receipt-bag-24-filled:before {
+    content: "\f64b";
+}
+.fiw-receipt-cube-24-filled:before {
+    content: "\f64c";
+}
+.fiw-receipt-money-24-filled:before {
+    content: "\f64d";
+}
+.fiw-receipt-play-24-filled:before {
+    content: "\f64e";
+}
+.fiw-receipt-search-20-filled:before {
+    content: "\f64f";
+}
+.fiw-record-48-filled:before {
+    content: "\f650";
+}
+.fiw-record-stop-48-filled:before {
+    content: "\f651";
+}
+.fiw-rectangle-landscape-48-filled:before {
+    content: "\f652";
+}
+.fiw-rectangle-portrait-location-target-20-filled:before {
+    content: "\f653";
+}
+.fiw-remote-20-filled:before {
+    content: "\f654";
+}
+.fiw-rename-28-filled:before {
+    content: "\f655";
+}
+.fiw-reorder-20-filled:before {
+    content: "\f656";
+}
+.fiw-replay-20-filled:before {
+    content: "\f657";
+}
+.fiw-resize-24-filled:before {
+    content: "\f658";
+}
+.fiw-resize-image-24-filled:before {
+    content: "\f659";
+}
+.fiw-resize-large-24-filled:before {
+    content: "\f65a";
+}
+.fiw-resize-small-24-filled:before {
+    content: "\f65b";
+}
+.fiw-resize-table-24-filled:before {
+    content: "\f65c";
+}
+.fiw-resize-video-24-filled:before {
+    content: "\f65d";
+}
+.fiw-reward-24-filled:before {
+    content: "\f65e";
+}
+.fiw-rewind-28-filled:before {
+    content: "\f65f";
+}
+.fiw-rhombus-48-filled:before {
+    content: "\f660";
+}
+.fiw-ribbon-32-filled:before {
+    content: "\f661";
+}
+.fiw-ribbon-add-24-filled:before {
+    content: "\f662";
+}
+.fiw-ribbon-off-32-filled:before {
+    content: "\f663";
+}
+.fiw-ribbon-star-24-filled:before {
+    content: "\f664";
+}
+.fiw-road-cone-48-filled:before {
+    content: "\f665";
+}
+.fiw-rocket-24-filled:before {
+    content: "\f666";
+}
+.fiw-rotate-left-24-filled:before {
+    content: "\f667";
+}
+.fiw-rotate-right-24-filled:before {
+    content: "\f668";
+}
+.fiw-router-24-filled:before {
+    content: "\f669";
+}
+.fiw-row-triple-24-filled:before {
+    content: "\f66a";
+}
+.fiw-rss-24-filled:before {
+    content: "\f66b";
+}
+.fiw-ruler-24-filled:before {
+    content: "\f66c";
+}
+.fiw-run-24-filled:before {
+    content: "\f66d";
+}
+.fiw-sanitize-24-filled:before {
+    content: "\f66e";
+}
+.fiw-save-24-filled:before {
+    content: "\f66f";
+}
+.fiw-save-arrow-right-24-filled:before {
+    content: "\f670";
+}
+.fiw-save-copy-24-filled:before {
+    content: "\f671";
+}
+.fiw-save-edit-24-filled:before {
+    content: "\f672";
+}
+.fiw-save-image-20-filled:before {
+    content: "\f673";
+}
+.fiw-save-multiple-24-filled:before {
+    content: "\f674";
+}
+.fiw-save-search-20-filled:before {
+    content: "\f675";
+}
+.fiw-save-sync-20-filled:before {
+    content: "\f676";
+}
+.fiw-savings-24-filled:before {
+    content: "\f677";
+}
+.fiw-scale-fill-24-filled:before {
+    content: "\f678";
+}
+.fiw-scale-fit-24-filled:before {
+    content: "\f679";
+}
+.fiw-scales-32-filled:before {
+    content: "\f67a";
+}
+.fiw-scan-24-filled:before {
+    content: "\f67b";
+}
+.fiw-scan-camera-48-filled:before {
+    content: "\f67c";
+}
+.fiw-scan-dash-48-filled:before {
+    content: "\f67d";
+}
+.fiw-scan-object-24-filled:before {
+    content: "\f67e";
+}
+.fiw-scan-table-24-filled:before {
+    content: "\f67f";
+}
+.fiw-scan-text-24-filled:before {
+    content: "\f680";
+}
+.fiw-scan-thumb-up-48-filled:before {
+    content: "\f681";
+}
+.fiw-scan-thumb-up-off-48-filled:before {
+    content: "\f682";
+}
+.fiw-scan-type-24-filled:before {
+    content: "\f683";
+}
+.fiw-scan-type-checkmark-24-filled:before {
+    content: "\f684";
+}
+.fiw-scan-type-off-20-filled:before {
+    content: "\f685";
+}
+.fiw-scratchpad-24-filled:before {
+    content: "\f686";
+}
+.fiw-screen-cut-20-filled:before {
+    content: "\f687";
+}
+.fiw-screen-person-20-filled:before {
+    content: "\f688";
+}
+.fiw-screen-search-24-filled:before {
+    content: "\f689";
+}
+.fiw-screenshot-24-filled:before {
+    content: "\f68a";
+}
+.fiw-search-48-filled:before {
+    content: "\f68b";
+}
+.fiw-search-info-24-filled:before {
+    content: "\f68c";
+}
+.fiw-search-settings-20-filled:before {
+    content: "\f68d";
+}
+.fiw-search-shield-20-filled:before {
+    content: "\f68e";
+}
+.fiw-search-square-24-filled:before {
+    content: "\f68f";
+}
+.fiw-search-visual-24-filled:before {
+    content: "\f690";
+}
+.fiw-select-all-off-24-filled:before {
+    content: "\f691";
+}
+.fiw-select-all-on-24-filled:before {
+    content: "\f692";
+}
+.fiw-select-object-24-filled:before {
+    content: "\f693";
+}
+.fiw-select-object-skew-24-filled:before {
+    content: "\f694";
+}
+.fiw-select-object-skew-dismiss-24-filled:before {
+    content: "\f695";
+}
+.fiw-select-object-skew-edit-24-filled:before {
+    content: "\f696";
+}
+.fiw-send-28-filled:before {
+    content: "\f697";
+}
+.fiw-send-clock-24-filled:before {
+    content: "\f698";
+}
+.fiw-send-copy-24-filled:before {
+    content: "\f699";
+}
+.fiw-serial-port-24-filled:before {
+    content: "\f69a";
+}
+.fiw-server-24-filled:before {
+    content: "\f69b";
+}
+.fiw-server-multiple-20-filled:before {
+    content: "\f69c";
+}
+.fiw-server-play-20-filled:before {
+    content: "\f69d";
+}
+.fiw-service-bell-24-filled:before {
+    content: "\f69e";
+}
+.fiw-settings-48-filled:before {
+    content: "\f69f";
+}
+.fiw-settings-chat-24-filled:before {
+    content: "\f6a0";
+}
+.fiw-shape-exclude-24-filled:before {
+    content: "\f6a1";
+}
+.fiw-shape-intersect-24-filled:before {
+    content: "\f6a2";
+}
+.fiw-shape-subtract-24-filled:before {
+    content: "\f6a3";
+}
+.fiw-shape-union-24-filled:before {
+    content: "\f6a4";
+}
+.fiw-shapes-48-filled:before {
+    content: "\f6a5";
+}
+.fiw-share-48-filled:before {
+    content: "\f6a6";
+}
+.fiw-share-android-24-filled:before {
+    content: "\f6a7";
+}
+.fiw-share-close-tray-24-filled:before {
+    content: "\f6a8";
+}
+.fiw-share-ios-48-filled:before {
+    content: "\f6a9";
+}
+.fiw-share-screen-person-28-filled:before {
+    content: "\f6aa";
+}
+.fiw-share-screen-person-overlay-28-filled:before {
+    content: "\f6ab";
+}
+.fiw-share-screen-person-overlay-inside-28-filled:before {
+    content: "\f6ac";
+}
+.fiw-share-screen-person-p-28-filled:before {
+    content: "\f6ad";
+}
+.fiw-share-screen-start-48-filled:before {
+    content: "\f6ae";
+}
+.fiw-share-screen-stop-48-filled:before {
+    content: "\f6af";
+}
+.fiw-shield-48-filled:before {
+    content: "\f6b0";
+}
+.fiw-shield-badge-24-filled:before {
+    content: "\f6b1";
+}
+.fiw-shield-checkmark-48-filled:before {
+    content: "\f6b2";
+}
+.fiw-shield-dismiss-24-filled:before {
+    content: "\f6b3";
+}
+.fiw-shield-dismiss-shield-20-filled:before {
+    content: "\f6b4";
+}
+.fiw-shield-error-24-filled:before {
+    content: "\f6b5";
+}
+.fiw-shield-keyhole-24-filled:before {
+    content: "\f6b6";
+}
+.fiw-shield-lock-48-filled:before {
+    content: "\f6b7";
+}
+.fiw-shield-person-20-filled:before {
+    content: "\f6b8";
+}
+.fiw-shield-person-add-20-filled:before {
+    content: "\f6b9";
+}
+.fiw-shield-prohibited-24-filled:before {
+    content: "\f6ba";
+}
+.fiw-shield-task-48-filled:before {
+    content: "\f6bb";
+}
+.fiw-shifts-30-minutes-24-filled:before {
+    content: "\f6bc";
+}
+.fiw-shifts-32-filled:before {
+    content: "\f6bd";
+}
+.fiw-shifts-activity-24-filled:before {
+    content: "\f6be";
+}
+.fiw-shifts-add-24-filled:before {
+    content: "\f6bf";
+}
+.fiw-shifts-availability-24-filled:before {
+    content: "\f6c0";
+}
+.fiw-shifts-checkmark-24-filled:before {
+    content: "\f6c1";
+}
+.fiw-shifts-day-24-filled:before {
+    content: "\f6c2";
+}
+.fiw-shifts-open-24-filled:before {
+    content: "\f6c3";
+}
+.fiw-shifts-prohibited-24-filled:before {
+    content: "\f6c4";
+}
+.fiw-shifts-question-mark-24-filled:before {
+    content: "\f6c5";
+}
+.fiw-shifts-team-24-filled:before {
+    content: "\f6c6";
+}
+.fiw-shopping-bag-24-filled:before {
+    content: "\f6c7";
+}
+.fiw-shopping-bag-arrow-left-24-filled:before {
+    content: "\f6c8";
+}
+.fiw-shopping-bag-dismiss-24-filled:before {
+    content: "\f6c9";
+}
+.fiw-shopping-bag-pause-24-filled:before {
+    content: "\f6ca";
+}
+.fiw-shopping-bag-percent-24-filled:before {
+    content: "\f6cb";
+}
+.fiw-shopping-bag-play-24-filled:before {
+    content: "\f6cc";
+}
+.fiw-shopping-bag-tag-24-filled:before {
+    content: "\f6cd";
+}
+.fiw-shortpick-24-filled:before {
+    content: "\f6ce";
+}
+.fiw-sidebar-search-ltr-20-filled:before {
+    content: "\f6cf";
+}
+.fiw-sidebar-search-rtl-20-filled:before {
+    content: "\f6d0";
+}
+.fiw-sign-out-24-filled:before {
+    content: "\f6d1";
+}
+.fiw-signature-28-filled:before {
+    content: "\f6d2";
+}
+.fiw-sim-24-filled:before {
+    content: "\f6d3";
+}
+.fiw-skip-back-10-48-filled:before {
+    content: "\f6d4";
+}
+.fiw-skip-forward-10-48-filled:before {
+    content: "\f6d5";
+}
+.fiw-skip-forward-30-48-filled:before {
+    content: "\f6d6";
+}
+.fiw-skip-forward-tab-24-filled:before {
+    content: "\f6d7";
+}
+.fiw-sleep-24-filled:before {
+    content: "\f6d8";
+}
+.fiw-slide-add-48-filled:before {
+    content: "\f6d9";
+}
+.fiw-slide-arrow-right-24-filled:before {
+    content: "\f6da";
+}
+.fiw-slide-eraser-24-filled:before {
+    content: "\f6db";
+}
+.fiw-slide-grid-24-filled:before {
+    content: "\f6dc";
+}
+.fiw-slide-hide-24-filled:before {
+    content: "\f6dd";
+}
+.fiw-slide-layout-24-filled:before {
+    content: "\f6de";
+}
+.fiw-slide-microphone-32-filled:before {
+    content: "\f6df";
+}
+.fiw-slide-multiple-24-filled:before {
+    content: "\f6e0";
+}
+.fiw-slide-multiple-arrow-right-24-filled:before {
+    content: "\f6e1";
+}
+.fiw-slide-multiple-search-24-filled:before {
+    content: "\f6e2";
+}
+.fiw-slide-search-28-filled:before {
+    content: "\f6e3";
+}
+.fiw-slide-settings-24-filled:before {
+    content: "\f6e4";
+}
+.fiw-slide-size-24-filled:before {
+    content: "\f6e5";
+}
+.fiw-slide-text-48-filled:before {
+    content: "\f6e6";
+}
+.fiw-slide-transition-24-filled:before {
+    content: "\f6e7";
+}
+.fiw-smartwatch-24-filled:before {
+    content: "\f6e8";
+}
+.fiw-smartwatch-dot-24-filled:before {
+    content: "\f6e9";
+}
+.fiw-snooze-24-filled:before {
+    content: "\f6ea";
+}
+.fiw-sound-source-28-filled:before {
+    content: "\f6eb";
+}
+.fiw-sound-wave-circle-24-filled:before {
+    content: "\f6ec";
+}
+.fiw-spacebar-24-filled:before {
+    content: "\f6ed";
+}
+.fiw-sparkle-48-filled:before {
+    content: "\f6ee";
+}
+.fiw-speaker-0-48-filled:before {
+    content: "\f6ef";
+}
+.fiw-speaker-1-48-filled:before {
+    content: "\f6f0";
+}
+.fiw-speaker-2-48-filled:before {
+    content: "\f6f1";
+}
+.fiw-speaker-bluetooth-28-filled:before {
+    content: "\f6f2";
+}
+.fiw-speaker-edit-24-filled:before {
+    content: "\f6f3";
+}
+.fiw-speaker-mute-48-filled:before {
+    content: "\f6f4";
+}
+.fiw-speaker-off-48-filled:before {
+    content: "\f6f5";
+}
+.fiw-speaker-settings-28-filled:before {
+    content: "\f6f6";
+}
+.fiw-speaker-usb-28-filled:before {
+    content: "\f6f7";
+}
+.fiw-spinner-ios-20-filled:before {
+    content: "\f6f8";
+}
+.fiw-split-hint-20-filled:before {
+    content: "\f6f9";
+}
+.fiw-split-horizontal-48-filled:before {
+    content: "\f6fa";
+}
+.fiw-split-vertical-48-filled:before {
+    content: "\f6fb";
+}
+.fiw-sport-24-filled:before {
+    content: "\f6fc";
+}
+.fiw-sport-american-football-24-filled:before {
+    content: "\f6fd";
+}
+.fiw-sport-baseball-24-filled:before {
+    content: "\f6fe";
+}
+.fiw-sport-basketball-24-filled:before {
+    content: "\f6ff";
+}
+.fiw-sport-hockey-24-filled:before {
+    content: "\f700";
+}
+.fiw-sport-soccer-24-filled:before {
+    content: "\f701";
+}
+.fiw-square-48-filled:before {
+    content: "\f702";
+}
+.fiw-square-add-20-filled:before {
+    content: "\f703";
+}
+.fiw-square-arrow-forward-48-filled:before {
+    content: "\f704";
+}
+.fiw-square-dismiss-20-filled:before {
+    content: "\f705";
+}
+.fiw-square-hint-48-filled:before {
+    content: "\f706";
+}
+.fiw-square-hint-apps-24-filled:before {
+    content: "\f707";
+}
+.fiw-square-hint-arrow-back-20-filled:before {
+    content: "\f708";
+}
+.fiw-square-hint-sparkles-48-filled:before {
+    content: "\f709";
+}
+.fiw-square-multiple-24-filled:before {
+    content: "\f70a";
+}
+.fiw-square-shadow-20-filled:before {
+    content: "\f70b";
+}
+.fiw-squares-nested-20-filled:before {
+    content: "\f70c";
+}
+.fiw-stack-24-filled:before {
+    content: "\f70d";
+}
+.fiw-stack-arrow-forward-24-filled:before {
+    content: "\f70e";
+}
+.fiw-stack-star-24-filled:before {
+    content: "\f70f";
+}
+.fiw-star-48-filled:before {
+    content: "\f710";
+}
+.fiw-star-add-28-filled:before {
+    content: "\f711";
+}
+.fiw-star-arrow-right-end-24-filled:before {
+    content: "\f712";
+}
+.fiw-star-arrow-right-start-24-filled:before {
+    content: "\f713";
+}
+.fiw-star-dismiss-28-filled:before {
+    content: "\f714";
+}
+.fiw-star-edit-24-filled:before {
+    content: "\f715";
+}
+.fiw-star-emphasis-32-filled:before {
+    content: "\f716";
+}
+.fiw-star-half-28-filled:before {
+    content: "\f717";
+}
+.fiw-star-line-horizontal-3-24-filled:before {
+    content: "\f718";
+}
+.fiw-star-off-28-filled:before {
+    content: "\f719";
+}
+.fiw-star-one-quarter-28-filled:before {
+    content: "\f71a";
+}
+.fiw-star-prohibited-24-filled:before {
+    content: "\f71b";
+}
+.fiw-star-settings-24-filled:before {
+    content: "\f71c";
+}
+.fiw-star-three-quarter-28-filled:before {
+    content: "\f71d";
+}
+.fiw-status-24-filled:before {
+    content: "\f71e";
+}
+.fiw-steps-24-filled:before {
+    content: "\f71f";
+}
+.fiw-stethoscope-24-filled:before {
+    content: "\f720";
+}
+.fiw-sticker-24-filled:before {
+    content: "\f721";
+}
+.fiw-sticker-add-24-filled:before {
+    content: "\f722";
+}
+.fiw-stop-24-filled:before {
+    content: "\f723";
+}
+.fiw-storage-24-filled:before {
+    content: "\f724";
+}
+.fiw-store-microsoft-24-filled:before {
+    content: "\f725";
+}
+.fiw-stream-24-filled:before {
+    content: "\f726";
+}
+.fiw-stream-input-20-filled:before {
+    content: "\f727";
+}
+.fiw-stream-input-output-20-filled:before {
+    content: "\f728";
+}
+.fiw-stream-output-20-filled:before {
+    content: "\f729";
+}
+.fiw-style-guide-24-filled:before {
+    content: "\f72a";
+}
+.fiw-sub-grid-24-filled:before {
+    content: "\f72b";
+}
+.fiw-subtitles-24-filled:before {
+    content: "\f72c";
+}
+.fiw-subtract-48-filled:before {
+    content: "\f72d";
+}
+.fiw-subtract-circle-32-filled:before {
+    content: "\f72e";
+}
+.fiw-subtract-circle-arrow-back-20-filled:before {
+    content: "\f72f";
+}
+.fiw-subtract-circle-arrow-forward-20-filled:before {
+    content: "\f730";
+}
+.fiw-subtract-square-24-filled:before {
+    content: "\f731";
+}
+.fiw-subtract-square-multiple-20-filled:before {
+    content: "\f732";
+}
+.fiw-surface-earbuds-24-filled:before {
+    content: "\f733";
+}
+.fiw-surface-hub-24-filled:before {
+    content: "\f734";
+}
+.fiw-swipe-down-24-filled:before {
+    content: "\f735";
+}
+.fiw-swipe-right-24-filled:before {
+    content: "\f736";
+}
+.fiw-swipe-up-24-filled:before {
+    content: "\f737";
+}
+.fiw-symbols-24-filled:before {
+    content: "\f738";
+}
+.fiw-sync-off-20-filled:before {
+    content: "\f739";
+}
+.fiw-syringe-24-filled:before {
+    content: "\f73a";
+}
+.fiw-system-24-filled:before {
+    content: "\f73b";
+}
+.fiw-tab-28-filled:before {
+    content: "\f73c";
+}
+.fiw-tab-add-24-filled:before {
+    content: "\f73d";
+}
+.fiw-tab-arrow-left-24-filled:before {
+    content: "\f73e";
+}
+.fiw-tab-desktop-24-filled:before {
+    content: "\f73f";
+}
+.fiw-tab-desktop-arrow-clockwise-24-filled:before {
+    content: "\f740";
+}
+.fiw-tab-desktop-arrow-left-20-filled:before {
+    content: "\f741";
+}
+.fiw-tab-desktop-bottom-24-filled:before {
+    content: "\f742";
+}
+.fiw-tab-desktop-clock-20-filled:before {
+    content: "\f743";
+}
+.fiw-tab-desktop-copy-20-filled:before {
+    content: "\f744";
+}
+.fiw-tab-desktop-image-24-filled:before {
+    content: "\f745";
+}
+.fiw-tab-desktop-multiple-20-filled:before {
+    content: "\f746";
+}
+.fiw-tab-desktop-multiple-bottom-24-filled:before {
+    content: "\f747";
+}
+.fiw-tab-desktop-new-page-20-filled:before {
+    content: "\f748";
+}
+.fiw-tab-in-private-28-filled:before {
+    content: "\f749";
+}
+.fiw-tab-inprivate-account-24-filled:before {
+    content: "\f74a";
+}
+.fiw-tab-prohibited-24-filled:before {
+    content: "\f74b";
+}
+.fiw-tab-shield-dismiss-24-filled:before {
+    content: "\f74c";
+}
+.fiw-table-48-filled:before {
+    content: "\f74d";
+}
+.fiw-table-add-28-filled:before {
+    content: "\f74e";
+}
+.fiw-table-bottom-row-48-filled:before {
+    content: "\f74f";
+}
+.fiw-table-cell-edit-28-filled:before {
+    content: "\f750";
+}
+.fiw-table-cells-merge-28-filled:before {
+    content: "\f751";
+}
+.fiw-table-cells-split-28-filled:before {
+    content: "\f752";
+}
+.fiw-table-checker-20-filled:before {
+    content: "\f753";
+}
+.fiw-table-copy-20-filled:before {
+    content: "\f754";
+}
+.fiw-table-delete-column-28-filled:before {
+    content: "\f755";
+}
+.fiw-table-delete-row-28-filled:before {
+    content: "\f756";
+}
+.fiw-table-dismiss-28-filled:before {
+    content: "\f757";
+}
+.fiw-table-edit-28-filled:before {
+    content: "\f758";
+}
+.fiw-table-freeze-column-28-filled:before {
+    content: "\f759";
+}
+.fiw-table-freeze-column-and-row-28-filled:before {
+    content: "\f75a";
+}
+.fiw-table-freeze-row-28-filled:before {
+    content: "\f75b";
+}
+.fiw-table-image-20-filled:before {
+    content: "\f75c";
+}
+.fiw-table-insert-column-28-filled:before {
+    content: "\f75d";
+}
+.fiw-table-insert-row-28-filled:before {
+    content: "\f75e";
+}
+.fiw-table-lightning-28-filled:before {
+    content: "\f75f";
+}
+.fiw-table-link-28-filled:before {
+    content: "\f760";
+}
+.fiw-table-move-above-28-filled:before {
+    content: "\f761";
+}
+.fiw-table-move-below-28-filled:before {
+    content: "\f762";
+}
+.fiw-table-move-left-28-filled:before {
+    content: "\f763";
+}
+.fiw-table-move-right-28-filled:before {
+    content: "\f764";
+}
+.fiw-table-multiple-20-filled:before {
+    content: "\f765";
+}
+.fiw-table-resize-column-28-filled:before {
+    content: "\f766";
+}
+.fiw-table-resize-row-28-filled:before {
+    content: "\f767";
+}
+.fiw-table-search-20-filled:before {
+    content: "\f768";
+}
+.fiw-table-settings-28-filled:before {
+    content: "\f769";
+}
+.fiw-table-simple-48-filled:before {
+    content: "\f76a";
+}
+.fiw-table-split-20-filled:before {
+    content: "\f76b";
+}
+.fiw-table-stack-above-28-filled:before {
+    content: "\f76c";
+}
+.fiw-table-stack-below-28-filled:before {
+    content: "\f76d";
+}
+.fiw-table-stack-left-28-filled:before {
+    content: "\f76e";
+}
+.fiw-table-stack-right-28-filled:before {
+    content: "\f76f";
+}
+.fiw-table-switch-28-filled:before {
+    content: "\f770";
+}
+.fiw-tablet-48-filled:before {
+    content: "\f771";
+}
+.fiw-tablet-speaker-24-filled:before {
+    content: "\f772";
+}
+.fiw-tabs-24-filled:before {
+    content: "\f773";
+}
+.fiw-tag-32-filled:before {
+    content: "\f774";
+}
+.fiw-tag-circle-20-filled:before {
+    content: "\f775";
+}
+.fiw-tag-dismiss-24-filled:before {
+    content: "\f776";
+}
+.fiw-tag-error-24-filled:before {
+    content: "\f777";
+}
+.fiw-tag-lock-32-filled:before {
+    content: "\f778";
+}
+.fiw-tag-lock-accent-32-filled:before {
+    content: "\f779";
+}
+.fiw-tag-multiple-24-filled:before {
+    content: "\f77a";
+}
+.fiw-tag-off-24-filled:before {
+    content: "\f77b";
+}
+.fiw-tag-question-mark-32-filled:before {
+    content: "\f77c";
+}
+.fiw-tag-reset-24-filled:before {
+    content: "\f77d";
+}
+.fiw-tag-search-24-filled:before {
+    content: "\f77e";
+}
+.fiw-tap-double-48-filled:before {
+    content: "\f77f";
+}
+.fiw-tap-single-48-filled:before {
+    content: "\f780";
+}
+.fiw-target-32-filled:before {
+    content: "\f781";
+}
+.fiw-target-arrow-24-filled:before {
+    content: "\f782";
+}
+.fiw-target-edit-24-filled:before {
+    content: "\f783";
+}
+.fiw-task-list-add-24-filled:before {
+    content: "\f784";
+}
+.fiw-task-list-ltr-24-filled:before {
+    content: "\f785";
+}
+.fiw-task-list-rtl-24-filled:before {
+    content: "\f786";
+}
+.fiw-task-list-square-add-24-filled:before {
+    content: "\f787";
+}
+.fiw-task-list-square-database-20-filled:before {
+    content: "\f788";
+}
+.fiw-task-list-square-ltr-24-filled:before {
+    content: "\f789";
+}
+.fiw-task-list-square-person-20-filled:before {
+    content: "\f78a";
+}
+.fiw-task-list-square-rtl-24-filled:before {
+    content: "\f78b";
+}
+.fiw-task-list-square-settings-20-filled:before {
+    content: "\f78c";
+}
+.fiw-tasks-app-28-filled:before {
+    content: "\f78d";
+}
+.fiw-teddy-24-filled:before {
+    content: "\f78e";
+}
+.fiw-temperature-24-filled:before {
+    content: "\f78f";
+}
+.fiw-tent-48-filled:before {
+    content: "\f790";
+}
+.fiw-tetris-app-48-filled:before {
+    content: "\f791";
+}
+.fiw-text-add-space-after-24-filled:before {
+    content: "\f792";
+}
+.fiw-text-add-space-before-24-filled:before {
+    content: "\f793";
+}
+.fiw-text-add-t-24-filled:before {
+    content: "\f794";
+}
+.fiw-text-align-center-24-filled:before {
+    content: "\f795";
+}
+.fiw-text-align-distributed-24-filled:before {
+    content: "\f796";
+}
+.fiw-text-align-distributed-evenly-24-filled:before {
+    content: "\f797";
+}
+.fiw-text-align-distributed-vertical-24-filled:before {
+    content: "\f798";
+}
+.fiw-text-align-justify-24-filled:before {
+    content: "\f799";
+}
+.fiw-text-align-justify-low-24-filled:before {
+    content: "\f79a";
+}
+.fiw-text-align-left-24-filled:before {
+    content: "\f79b";
+}
+.fiw-text-align-right-24-filled:before {
+    content: "\f79c";
+}
+.fiw-text-asterisk-20-filled:before {
+    content: "\f79d";
+}
+.fiw-text-baseline-20-filled:before {
+    content: "\f79e";
+}
+.fiw-text-bold-24-filled:before {
+    content: "\f79f";
+}
+.fiw-text-box-settings-24-filled:before {
+    content: "\f7a0";
+}
+.fiw-text-bullet-list-add-24-filled:before {
+    content: "\f7a1";
+}
+.fiw-text-bullet-list-checkmark-20-filled:before {
+    content: "\f7a2";
+}
+.fiw-text-bullet-list-dismiss-20-filled:before {
+    content: "\f7a3";
+}
+.fiw-text-bullet-list-ltr-24-filled:before {
+    content: "\f7a4";
+}
+.fiw-text-bullet-list-rtl-24-filled:before {
+    content: "\f7a5";
+}
+.fiw-text-bullet-list-square-24-filled:before {
+    content: "\f7a6";
+}
+.fiw-text-bullet-list-square-clock-20-filled:before {
+    content: "\f7a7";
+}
+.fiw-text-bullet-list-square-edit-24-filled:before {
+    content: "\f7a8";
+}
+.fiw-text-bullet-list-square-person-20-filled:before {
+    content: "\f7a9";
+}
+.fiw-text-bullet-list-square-search-20-filled:before {
+    content: "\f7aa";
+}
+.fiw-text-bullet-list-square-settings-20-filled:before {
+    content: "\f7ab";
+}
+.fiw-text-bullet-list-square-shield-20-filled:before {
+    content: "\f7ac";
+}
+.fiw-text-bullet-list-square-toolbox-20-filled:before {
+    content: "\f7ad";
+}
+.fiw-text-bullet-list-square-warning-24-filled:before {
+    content: "\f7ae";
+}
+.fiw-text-bullet-list-tree-24-filled:before {
+    content: "\f7af";
+}
+.fiw-text-case-lowercase-24-filled:before {
+    content: "\f7b0";
+}
+.fiw-text-case-title-24-filled:before {
+    content: "\f7b1";
+}
+.fiw-text-case-uppercase-24-filled:before {
+    content: "\f7b2";
+}
+.fiw-text-change-case-24-filled:before {
+    content: "\f7b3";
+}
+.fiw-text-clear-formatting-24-filled:before {
+    content: "\f7b4";
+}
+.fiw-text-collapse-24-filled:before {
+    content: "\f7b5";
+}
+.fiw-text-color-24-filled:before {
+    content: "\f7b6";
+}
+.fiw-text-color-accent-24-filled:before {
+    content: "\f7b7";
+}
+.fiw-text-column-one-24-filled:before {
+    content: "\f7b8";
+}
+.fiw-text-column-one-narrow-24-filled:before {
+    content: "\f7b9";
+}
+.fiw-text-column-one-wide-24-filled:before {
+    content: "\f7ba";
+}
+.fiw-text-column-one-wide-lightning-24-filled:before {
+    content: "\f7bb";
+}
+.fiw-text-column-three-24-filled:before {
+    content: "\f7bc";
+}
+.fiw-text-column-two-24-filled:before {
+    content: "\f7bd";
+}
+.fiw-text-column-two-left-24-filled:before {
+    content: "\f7be";
+}
+.fiw-text-column-two-right-24-filled:before {
+    content: "\f7bf";
+}
+.fiw-text-continuous-24-filled:before {
+    content: "\f7c0";
+}
+.fiw-text-density-28-filled:before {
+    content: "\f7c1";
+}
+.fiw-text-description-24-filled:before {
+    content: "\f7c2";
+}
+.fiw-text-direction-horizontal-left-24-filled:before {
+    content: "\f7c3";
+}
+.fiw-text-direction-horizontal-right-24-filled:before {
+    content: "\f7c4";
+}
+.fiw-text-direction-rotate-270-right-24-filled:before {
+    content: "\f7c5";
+}
+.fiw-text-direction-rotate-90-left-24-filled:before {
+    content: "\f7c6";
+}
+.fiw-text-direction-rotate-90-right-24-filled:before {
+    content: "\f7c7";
+}
+.fiw-text-direction-vertical-24-filled:before {
+    content: "\f7c8";
+}
+.fiw-text-edit-style-24-filled:before {
+    content: "\f7c9";
+}
+.fiw-text-effects-24-filled:before {
+    content: "\f7ca";
+}
+.fiw-text-expand-24-filled:before {
+    content: "\f7cb";
+}
+.fiw-text-field-24-filled:before {
+    content: "\f7cc";
+}
+.fiw-text-first-line-24-filled:before {
+    content: "\f7cd";
+}
+.fiw-text-font-24-filled:before {
+    content: "\f7ce";
+}
+.fiw-text-font-info-24-filled:before {
+    content: "\f7cf";
+}
+.fiw-text-font-size-24-filled:before {
+    content: "\f7d0";
+}
+.fiw-text-footnote-24-filled:before {
+    content: "\f7d1";
+}
+.fiw-text-grammar-arrow-left-24-filled:before {
+    content: "\f7d2";
+}
+.fiw-text-grammar-arrow-right-24-filled:before {
+    content: "\f7d3";
+}
+.fiw-text-grammar-checkmark-24-filled:before {
+    content: "\f7d4";
+}
+.fiw-text-grammar-dismiss-24-filled:before {
+    content: "\f7d5";
+}
+.fiw-text-grammar-error-20-filled:before {
+    content: "\f7d6";
+}
+.fiw-text-grammar-settings-24-filled:before {
+    content: "\f7d7";
+}
+.fiw-text-grammar-wand-24-filled:before {
+    content: "\f7d8";
+}
+.fiw-text-hanging-24-filled:before {
+    content: "\f7d9";
+}
+.fiw-text-header-1-24-filled:before {
+    content: "\f7da";
+}
+.fiw-text-header-2-24-filled:before {
+    content: "\f7db";
+}
+.fiw-text-header-3-24-filled:before {
+    content: "\f7dc";
+}
+.fiw-text-indent-decrease-ltr-24-filled:before {
+    content: "\f7dd";
+}
+.fiw-text-indent-decrease-rtl-24-filled:before {
+    content: "\f7de";
+}
+.fiw-text-indent-increase-ltr-24-filled:before {
+    content: "\f7df";
+}
+.fiw-text-indent-increase-rtl-24-filled:before {
+    content: "\f7e0";
+}
+.fiw-text-italic-24-filled:before {
+    content: "\f7e1";
+}
+.fiw-text-line-spacing-24-filled:before {
+    content: "\f7e2";
+}
+.fiw-text-more-24-filled:before {
+    content: "\f7e3";
+}
+.fiw-text-number-format-24-filled:before {
+    content: "\f7e4";
+}
+.fiw-text-number-list-ltr-24-filled:before {
+    content: "\f7e5";
+}
+.fiw-text-number-list-rtl-24-filled:before {
+    content: "\f7e6";
+}
+.fiw-text-paragraph-24-filled:before {
+    content: "\f7e7";
+}
+.fiw-text-paragraph-direction-24-filled:before {
+    content: "\f7e8";
+}
+.fiw-text-paragraph-direction-left-20-filled:before {
+    content: "\f7e9";
+}
+.fiw-text-paragraph-direction-right-20-filled:before {
+    content: "\f7ea";
+}
+.fiw-text-period-asterisk-20-filled:before {
+    content: "\f7eb";
+}
+.fiw-text-position-behind-24-filled:before {
+    content: "\f7ec";
+}
+.fiw-text-position-front-24-filled:before {
+    content: "\f7ed";
+}
+.fiw-text-position-line-24-filled:before {
+    content: "\f7ee";
+}
+.fiw-text-position-square-24-filled:before {
+    content: "\f7ef";
+}
+.fiw-text-position-through-24-filled:before {
+    content: "\f7f0";
+}
+.fiw-text-position-tight-24-filled:before {
+    content: "\f7f1";
+}
+.fiw-text-position-top-bottom-24-filled:before {
+    content: "\f7f2";
+}
+.fiw-text-proofing-tools-24-filled:before {
+    content: "\f7f3";
+}
+.fiw-text-quote-24-filled:before {
+    content: "\f7f4";
+}
+.fiw-text-sort-ascending-24-filled:before {
+    content: "\f7f5";
+}
+.fiw-text-sort-descending-24-filled:before {
+    content: "\f7f6";
+}
+.fiw-text-strikethrough-24-filled:before {
+    content: "\f7f7";
+}
+.fiw-text-subscript-24-filled:before {
+    content: "\f7f8";
+}
+.fiw-text-superscript-24-filled:before {
+    content: "\f7f9";
+}
+.fiw-text-t-48-filled:before {
+    content: "\f7fa";
+}
+.fiw-text-underline-24-filled:before {
+    content: "\f7fb";
+}
+.fiw-text-word-count-24-filled:before {
+    content: "\f7fc";
+}
+.fiw-text-wrap-24-filled:before {
+    content: "\f7fd";
+}
+.fiw-textbox-24-filled:before {
+    content: "\f7fe";
+}
+.fiw-textbox-align-bottom-24-filled:before {
+    content: "\f7ff";
+}
+.fiw-textbox-align-bottom-rotate-90-24-filled:before {
+    content: "\f800";
+}
+.fiw-textbox-align-center-24-filled:before {
+    content: "\f801";
+}
+.fiw-textbox-align-middle-24-filled:before {
+    content: "\f802";
+}
+.fiw-textbox-align-middle-rotate-90-24-filled:before {
+    content: "\f803";
+}
+.fiw-textbox-align-top-24-filled:before {
+    content: "\f804";
+}
+.fiw-textbox-align-top-rotate-90-24-filled:before {
+    content: "\f805";
+}
+.fiw-textbox-more-24-filled:before {
+    content: "\f806";
+}
+.fiw-textbox-rotate-90-24-filled:before {
+    content: "\f807";
+}
+.fiw-thinking-24-filled:before {
+    content: "\f808";
+}
+.fiw-thumb-dislike-24-filled:before {
+    content: "\f809";
+}
+.fiw-thumb-like-48-filled:before {
+    content: "\f80a";
+}
+.fiw-ticket-diagonal-28-filled:before {
+    content: "\f80b";
+}
+.fiw-ticket-horizontal-24-filled:before {
+    content: "\f80c";
+}
+.fiw-time-and-weather-24-filled:before {
+    content: "\f80d";
+}
+.fiw-time-picker-24-filled:before {
+    content: "\f80e";
+}
+.fiw-timeline-24-filled:before {
+    content: "\f80f";
+}
+.fiw-timer-10-24-filled:before {
+    content: "\f810";
+}
+.fiw-timer-2-24-filled:before {
+    content: "\f811";
+}
+.fiw-timer-3-24-filled:before {
+    content: "\f812";
+}
+.fiw-timer-48-filled:before {
+    content: "\f813";
+}
+.fiw-timer-off-24-filled:before {
+    content: "\f814";
+}
+.fiw-toggle-left-48-filled:before {
+    content: "\f815";
+}
+.fiw-toggle-right-48-filled:before {
+    content: "\f816";
+}
+.fiw-toolbox-28-filled:before {
+    content: "\f817";
+}
+.fiw-tooltip-quote-24-filled:before {
+    content: "\f818";
+}
+.fiw-top-speed-24-filled:before {
+    content: "\f819";
+}
+.fiw-translate-24-filled:before {
+    content: "\f81a";
+}
+.fiw-transmission-24-filled:before {
+    content: "\f81b";
+}
+.fiw-tray-item-add-24-filled:before {
+    content: "\f81c";
+}
+.fiw-tray-item-remove-24-filled:before {
+    content: "\f81d";
+}
+.fiw-tree-deciduous-20-filled:before {
+    content: "\f81e";
+}
+.fiw-tree-evergreen-20-filled:before {
+    content: "\f81f";
+}
+.fiw-triangle-48-filled:before {
+    content: "\f820";
+}
+.fiw-triangle-down-48-filled:before {
+    content: "\f821";
+}
+.fiw-triangle-left-48-filled:before {
+    content: "\f822";
+}
+.fiw-triangle-right-48-filled:before {
+    content: "\f823";
+}
+.fiw-trophy-48-filled:before {
+    content: "\f824";
+}
+.fiw-trophy-off-48-filled:before {
+    content: "\f825";
+}
+.fiw-tv-48-filled:before {
+    content: "\f826";
+}
+.fiw-tv-arrow-right-20-filled:before {
+    content: "\f827";
+}
+.fiw-tv-usb-48-filled:before {
+    content: "\f828";
+}
+.fiw-umbrella-24-filled:before {
+    content: "\f829";
+}
+.fiw-uninstall-app-24-filled:before {
+    content: "\f82a";
+}
+.fiw-usb-plug-24-filled:before {
+    content: "\f82b";
+}
+.fiw-usb-stick-24-filled:before {
+    content: "\f82c";
+}
+.fiw-vault-24-filled:before {
+    content: "\f82d";
+}
+.fiw-vehicle-bicycle-24-filled:before {
+    content: "\f82e";
+}
+.fiw-vehicle-bus-24-filled:before {
+    content: "\f82f";
+}
+.fiw-vehicle-cab-28-filled:before {
+    content: "\f830";
+}
+.fiw-vehicle-car-48-filled:before {
+    content: "\f831";
+}
+.fiw-vehicle-car-collision-48-filled:before {
+    content: "\f832";
+}
+.fiw-vehicle-car-profile-ltr-20-filled:before {
+    content: "\f833";
+}
+.fiw-vehicle-car-profile-rtl-20-filled:before {
+    content: "\f834";
+}
+.fiw-vehicle-ship-24-filled:before {
+    content: "\f835";
+}
+.fiw-vehicle-subway-24-filled:before {
+    content: "\f836";
+}
+.fiw-vehicle-truck-24-filled:before {
+    content: "\f837";
+}
+.fiw-vehicle-truck-bag-24-filled:before {
+    content: "\f838";
+}
+.fiw-vehicle-truck-cube-24-filled:before {
+    content: "\f839";
+}
+.fiw-vehicle-truck-profile-24-filled:before {
+    content: "\f83a";
+}
+.fiw-video-360-24-filled:before {
+    content: "\f83b";
+}
+.fiw-video-360-off-20-filled:before {
+    content: "\f83c";
+}
+.fiw-video-48-filled:before {
+    content: "\f83d";
+}
+.fiw-video-add-24-filled:before {
+    content: "\f83e";
+}
+.fiw-video-background-effect-24-filled:before {
+    content: "\f83f";
+}
+.fiw-video-chat-48-filled:before {
+    content: "\f840";
+}
+.fiw-video-clip-24-filled:before {
+    content: "\f841";
+}
+.fiw-video-clip-multiple-24-filled:before {
+    content: "\f842";
+}
+.fiw-video-off-48-filled:before {
+    content: "\f843";
+}
+.fiw-video-person-48-filled:before {
+    content: "\f844";
+}
+.fiw-video-person-call-32-filled:before {
+    content: "\f845";
+}
+.fiw-video-person-off-24-filled:before {
+    content: "\f846";
+}
+.fiw-video-person-sparkle-48-filled:before {
+    content: "\f847";
+}
+.fiw-video-person-star-24-filled:before {
+    content: "\f848";
+}
+.fiw-video-person-star-off-24-filled:before {
+    content: "\f849";
+}
+.fiw-video-play-pause-24-filled:before {
+    content: "\f84a";
+}
+.fiw-video-prohibited-28-filled:before {
+    content: "\f84b";
+}
+.fiw-video-recording-20-filled:before {
+    content: "\f84c";
+}
+.fiw-video-security-24-filled:before {
+    content: "\f84d";
+}
+.fiw-video-switch-24-filled:before {
+    content: "\f84e";
+}
+.fiw-video-sync-20-filled:before {
+    content: "\f84f";
+}
+.fiw-view-desktop-24-filled:before {
+    content: "\f850";
+}
+.fiw-view-desktop-mobile-24-filled:before {
+    content: "\f851";
+}
+.fiw-virtual-network-20-filled:before {
+    content: "\f852";
+}
+.fiw-virtual-network-toolbox-20-filled:before {
+    content: "\f853";
+}
+.fiw-voicemail-28-filled:before {
+    content: "\f854";
+}
+.fiw-voicemail-arrow-back-20-filled:before {
+    content: "\f855";
+}
+.fiw-voicemail-arrow-forward-20-filled:before {
+    content: "\f856";
+}
+.fiw-voicemail-arrow-subtract-20-filled:before {
+    content: "\f857";
+}
+.fiw-voicemail-subtract-16-filled:before {
+    content: "\f858";
+}
+.fiw-vote-24-filled:before {
+    content: "\f859";
+}
+.fiw-walkie-talkie-28-filled:before {
+    content: "\f85a";
+}
+.fiw-wallet-48-filled:before {
+    content: "\f85b";
+}
+.fiw-wallet-credit-card-32-filled:before {
+    content: "\f85c";
+}
+.fiw-wallpaper-24-filled:before {
+    content: "\f85d";
+}
+.fiw-wand-48-filled:before {
+    content: "\f85e";
+}
+.fiw-warning-24-filled:before {
+    content: "\f85f";
+}
+.fiw-warning-shield-20-filled:before {
+    content: "\f860";
+}
+.fiw-weather-blowing-snow-48-filled:before {
+    content: "\f861";
+}
+.fiw-weather-cloudy-48-filled:before {
+    content: "\f862";
+}
+.fiw-weather-drizzle-48-filled:before {
+    content: "\f863";
+}
+.fiw-weather-duststorm-48-filled:before {
+    content: "\f864";
+}
+.fiw-weather-fog-48-filled:before {
+    content: "\f865";
+}
+.fiw-weather-hail-day-48-filled:before {
+    content: "\f866";
+}
+.fiw-weather-hail-night-48-filled:before {
+    content: "\f867";
+}
+.fiw-weather-haze-48-filled:before {
+    content: "\f868";
+}
+.fiw-weather-moon-48-filled:before {
+    content: "\f869";
+}
+.fiw-weather-moon-off-48-filled:before {
+    content: "\f86a";
+}
+.fiw-weather-partly-cloudy-day-48-filled:before {
+    content: "\f86b";
+}
+.fiw-weather-partly-cloudy-night-48-filled:before {
+    content: "\f86c";
+}
+.fiw-weather-rain-48-filled:before {
+    content: "\f86d";
+}
+.fiw-weather-rain-showers-day-48-filled:before {
+    content: "\f86e";
+}
+.fiw-weather-rain-showers-night-48-filled:before {
+    content: "\f86f";
+}
+.fiw-weather-rain-snow-48-filled:before {
+    content: "\f870";
+}
+.fiw-weather-snow-48-filled:before {
+    content: "\f871";
+}
+.fiw-weather-snow-shower-day-48-filled:before {
+    content: "\f872";
+}
+.fiw-weather-snow-shower-night-48-filled:before {
+    content: "\f873";
+}
+.fiw-weather-snowflake-48-filled:before {
+    content: "\f874";
+}
+.fiw-weather-squalls-48-filled:before {
+    content: "\f875";
+}
+.fiw-weather-sunny-48-filled:before {
+    content: "\f876";
+}
+.fiw-weather-sunny-high-48-filled:before {
+    content: "\f877";
+}
+.fiw-weather-sunny-low-48-filled:before {
+    content: "\f878";
+}
+.fiw-weather-thunderstorm-48-filled:before {
+    content: "\f879";
+}
+.fiw-web-asset-24-filled:before {
+    content: "\f87a";
+}
+.fiw-whiteboard-48-filled:before {
+    content: "\f87b";
+}
+.fiw-wifi-1-24-filled:before {
+    content: "\f87c";
+}
+.fiw-wifi-2-24-filled:before {
+    content: "\f87d";
+}
+.fiw-wifi-3-24-filled:before {
+    content: "\f87e";
+}
+.fiw-wifi-4-24-filled:before {
+    content: "\f87f";
+}
+.fiw-wifi-lock-24-filled:before {
+    content: "\f880";
+}
+.fiw-wifi-off-24-filled:before {
+    content: "\f881";
+}
+.fiw-wifi-settings-20-filled:before {
+    content: "\f882";
+}
+.fiw-wifi-warning-24-filled:before {
+    content: "\f883";
+}
+.fiw-window-48-filled:before {
+    content: "\f884";
+}
+.fiw-window-ad-20-filled:before {
+    content: "\f885";
+}
+.fiw-window-ad-off-20-filled:before {
+    content: "\f886";
+}
+.fiw-window-ad-person-20-filled:before {
+    content: "\f887";
+}
+.fiw-window-apps-48-filled:before {
+    content: "\f888";
+}
+.fiw-window-arrow-up-24-filled:before {
+    content: "\f889";
+}
+.fiw-window-bullet-list-20-filled:before {
+    content: "\f88a";
+}
+.fiw-window-bullet-list-add-20-filled:before {
+    content: "\f88b";
+}
+.fiw-window-console-20-filled:before {
+    content: "\f88c";
+}
+.fiw-window-database-20-filled:before {
+    content: "\f88d";
+}
+.fiw-window-dev-edit-20-filled:before {
+    content: "\f88e";
+}
+.fiw-window-dev-tools-24-filled:before {
+    content: "\f88f";
+}
+.fiw-window-edit-16-filled:before {
+    content: "\f890";
+}
+.fiw-window-header-horizontal-20-filled:before {
+    content: "\f891";
+}
+.fiw-window-header-horizontal-off-20-filled:before {
+    content: "\f892";
+}
+.fiw-window-header-vertical-20-filled:before {
+    content: "\f893";
+}
+.fiw-window-inprivate-20-filled:before {
+    content: "\f894";
+}
+.fiw-window-inprivate-account-20-filled:before {
+    content: "\f895";
+}
+.fiw-window-location-target-20-filled:before {
+    content: "\f896";
+}
+.fiw-window-multiple-20-filled:before {
+    content: "\f897";
+}
+.fiw-window-multiple-swap-20-filled:before {
+    content: "\f898";
+}
+.fiw-window-new-24-filled:before {
+    content: "\f899";
+}
+.fiw-window-play-20-filled:before {
+    content: "\f89a";
+}
+.fiw-window-settings-20-filled:before {
+    content: "\f89b";
+}
+.fiw-window-shield-24-filled:before {
+    content: "\f89c";
+}
+.fiw-window-text-20-filled:before {
+    content: "\f89d";
+}
+.fiw-window-wrench-48-filled:before {
+    content: "\f89e";
+}
+.fiw-wrench-24-filled:before {
+    content: "\f89f";
+}
+.fiw-wrench-screwdriver-24-filled:before {
+    content: "\f8a0";
+}
+.fiw-xbox-console-24-filled:before {
+    content: "\f8a1";
+}
+.fiw-xray-24-filled:before {
+    content: "\f8a2";
+}
+.fiw-zoom-in-24-filled:before {
+    content: "\f8a3";
+}
+.fiw-zoom-out-24-filled:before {
+    content: "\f8a4";
+}
