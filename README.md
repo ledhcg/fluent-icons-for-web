@@ -1,6 +1,6 @@
 # Fluent Icons for Web
 
-Based on Fluent UI System Icons - a collection of familiar, friendly and modern icons from Microsoft.
+Based on Fluent UI System Icons - a collection of familiar, friendly and modern icons.
 
 We customized it for developers to use on their websites
 
