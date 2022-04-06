@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "fluentui-icons-for-web";
-    src: url("./fluentui-icons-for-web.eot?b5c3f81ce9f9a9e84b58a8f8ad7e4e6c#iefix") format("embedded-opentype"),
-url("./fluentui-icons-for-web.woff2?b5c3f81ce9f9a9e84b58a8f8ad7e4e6c") format("woff2"),
-url("./fluentui-icons-for-web.woff?b5c3f81ce9f9a9e84b58a8f8ad7e4e6c") format("woff");
+    font-family: "fluent-icons-for-web";
+    src: url("./fluent-icons-for-web.eot?00e2ae259b4beb4b367e382c60a2f5da#iefix") format("embedded-opentype"),
+url("./fluent-icons-for-web.woff2?00e2ae259b4beb4b367e382c60a2f5da") format("woff2"),
+url("./fluent-icons-for-web.woff?00e2ae259b4beb4b367e382c60a2f5da") format("woff");
 }
 
 i[class^="fiw-"]:before, i[class*=" fiw-"]:before {
-    font-family: fluentui-icons-for-web !important;
+    font-family: fluent-icons-for-web !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
