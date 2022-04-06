@@ -8,7 +8,7 @@ We customized it for developers to use on their websites
 
 ## Icon List
 
-[View the full list of regular icons](icons_regular.md)
+[View the full list of regular icons](https://github.com/microsoft/fluentui-system-icons/blob/master/icons_filled.md)
 
 ## Use
 
