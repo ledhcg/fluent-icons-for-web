@@ -11,8 +11,7 @@ python getSVGs.py
 #folder: assets
 
 #Create font
-npm install -g fantasticon
-npm install fantasticon -g
+npm install
 fantasticon sources -o fonts -n fluent-icons-for-web -g scss css json -p fiw
 
 https://yunusozcan.medium.com/how-to-create-icon-font-like-font-awesome-ce32ea7c7385
